@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <meta content="9781975315788" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Eminence in Shadow, Vol. 3</text>
+  </docTitle>
+  <docAuthor>
+    <text>Daisuke Aizawa and Touzai</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="titlepage" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml"/>
+    </navPoint>
+    <navPoint id="copyright" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter001" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="toc" playOrder="5">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter002" playOrder="6">
+      <navLabel>
+        <text>Prologue Heading to the Lawless City over Fall Break!</text>
+      </navLabel>
+      <content src="Text/chapter002.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter003" playOrder="7">
+      <navLabel>
+        <text>Chapter 1 Lawless City Bandit Hunting!</text>
+      </navLabel>
+      <content src="Text/chapter008.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter004" playOrder="8">
+      <navLabel>
+        <text>Chapter 2 Storming the Crimson Tower!</text>
+      </navLabel>
+      <content src="Text/chapter013.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter005" playOrder="9">
+      <navLabel>
+        <text>Chapter 3 Pursuing the Blood Queen!</text>
+      </navLabel>
+      <content src="Text/chapter020.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter006" playOrder="10">
+      <navLabel>
+        <text>Auxiliary Chapter Field Notes on a Little Brother—by Young Claire!</text>
+      </navLabel>
+      <content src="Text/chapter027.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter007" playOrder="11">
+      <navLabel>
+        <text>Chapter 4 I’ll Destroy It All and Start from Scratch!</text>
+      </navLabel>
+      <content src="Text/chapter030.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter008" playOrder="12">
+      <navLabel>
+        <text>Chapter 5 Printing Fake Money as Mitsugoshi Throws Down with the Major Corporate Alliance!</text>
+      </navLabel>
+      <content src="Text/chapter035.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter009" playOrder="13">
+      <navLabel>
+        <text>Chapter 6 Circulating Counterfeit Cash!</text>
+      </navLabel>
+      <content src="Text/chapter038.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter010" playOrder="14">
+      <navLabel>
+        <text>Epilogue The One to Destroy It All and Start from Scratch—with Fake Bills!</text>
+      </navLabel>
+      <content src="Text/chapter041.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter011" playOrder="15">
+      <navLabel>
+        <text>Appendix</text>
+      </navLabel>
+      <content src="Text/appendix001.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter012" playOrder="16">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/appendix009.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter013" playOrder="17">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletterSignup.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

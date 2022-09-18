@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <meta content="9781975320713" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Demon Sword Master of Excalibur Academy, Vol. 3</text>
+  </docTitle>
+  <docAuthor>
+    <text>Yu Shimizu</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-2" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml"/>
+    </navPoint>
+    <navPoint id="titlepage" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="copyright" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="toc" playOrder="5">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="preface001" playOrder="6">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="Text/preface001.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter001" playOrder="7">
+      <navLabel>
+        <text>Chapter 1 The Masked Dark Lord</text>
+      </navLabel>
+      <content src="Text/chapter001.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter004" playOrder="8">
+      <navLabel>
+        <text>Chapter 2 Training Match</text>
+      </navLabel>
+      <content src="Text/chapter004.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter007" playOrder="9">
+      <navLabel>
+        <text>Chapter 3 Third Assault Garden</text>
+      </navLabel>
+      <content src="Text/chapter007.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter013" playOrder="10">
+      <navLabel>
+        <text>Chapter 4 The Writhing Hollow</text>
+      </navLabel>
+      <content src="Text/chapter013.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter014" playOrder="11">
+      <navLabel>
+        <text>Chapter 5 Ghosts of the Ruined City</text>
+      </navLabel>
+      <content src="Text/chapter014.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter017" playOrder="12">
+      <navLabel>
+        <text>Chapter 6 The Elf Hero</text>
+      </navLabel>
+      <content src="Text/chapter017.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter020" playOrder="13">
+      <navLabel>
+        <text>Chapter 7 The Crystalia Estate</text>
+      </navLabel>
+      <content src="Text/chapter020.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter023" playOrder="14">
+      <navLabel>
+        <text>Chapter 8 The Fallen God’s Glory</text>
+      </navLabel>
+      <content src="Text/chapter023.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter024" playOrder="15">
+      <navLabel>
+        <text>Chapter 9 The Demon Sword’s Purpose</text>
+      </navLabel>
+      <content src="Text/chapter024.xhtml"/>
+    </navPoint>
+    <navPoint id="epilogue" playOrder="16">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="Text/epilogue.xhtml"/>
+    </navPoint>
+    <navPoint id="appendix001" playOrder="17">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/appendix001.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-12" playOrder="18">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletterSignup.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

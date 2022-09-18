@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9781975301156" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>That Time I Got Reincarnated as a Slime, Vol. 4</text>
+  </docTitle>
+  <docAuthor>
+    <text>Fuse and Mitz Vah</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="ncx-1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-2" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-3" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-4" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-5" playOrder="5">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-6" playOrder="6">
+      <navLabel>
+        <text>Prologue: Beauty in Action</text>
+      </navLabel>
+      <content src="Text/prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-7" playOrder="7">
+      <navLabel>
+        <text>Chapter 1: Trading with the Beast Kingdom</text>
+      </navLabel>
+      <content src="Text/chapter001.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-8" playOrder="8">
+      <navLabel>
+        <text>Chapter 2: King Gazel’s Invitation</text>
+      </navLabel>
+      <content src="Text/chapter002.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-9" playOrder="9">
+      <navLabel>
+        <text>Chapter 3: To Human Lands</text>
+      </navLabel>
+      <content src="Text/chapter003.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-10" playOrder="10">
+      <navLabel>
+        <text>Chapter 4: The Kingdom of Blumund</text>
+      </navLabel>
+      <content src="Text/chapter004.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-11" playOrder="11">
+      <navLabel>
+        <text>Chapter 5: The Summoned Children</text>
+      </navLabel>
+      <content src="Text/chapter005.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-12" playOrder="12">
+      <navLabel>
+        <text>Chapter 6: Conquering the Labyrinth</text>
+      </navLabel>
+      <content src="Text/chapter006.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-13" playOrder="13">
+      <navLabel>
+        <text>Chapter 7: Rescued Souls</text>
+      </navLabel>
+      <content src="Text/chapter007.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-14" playOrder="14">
+      <navLabel>
+        <text>Epilogue: A Monster’s Natural Enemy</text>
+      </navLabel>
+      <content src="Text/epilogue.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-15" playOrder="15">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/afterword.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-16" playOrder="16">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletterSignup.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

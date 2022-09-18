@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9781718328334" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Seirei Gensouki: Spirit Chronicles Volume 17</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint2">
+      <navLabel>
+        <text>Color Illustrations</text>
+      </navLabel>
+      <content src="Text/frontmatter1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint3">
+      <navLabel>
+        <text>Character Introduction</text>
+      </navLabel>
+      <content src="Text/frontmatter5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint4">
+      <navLabel>
+        <text>Prologue: Vow</text>
+      </navLabel>
+      <content src="Text/prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint5">
+      <navLabel>
+        <text>Chapter 1: Life in the Galarc Kingdom</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint6">
+      <navLabel>
+        <text>Chapter 2: Preparing for Departure</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint7">
+      <navLabel>
+        <text>Chapter 3: Reunion at the Village</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint8">
+      <navLabel>
+        <text>Interlude: A Conversation between Ruler and Saint</text>
+      </navLabel>
+      <content src="Text/interlude1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint9">
+      <navLabel>
+        <text>Chapter 4: New Reunions, New Meetings</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint10">
+      <navLabel>
+        <text>Interlude: Letter to the Centostella Kingdom</text>
+      </navLabel>
+      <content src="Text/interlude2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint11">
+      <navLabel>
+        <text>Chapter 5: The Saint’s Development</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint12">
+      <navLabel>
+        <text>Chapter 6: The Saint’s Attack</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint13">
+      <navLabel>
+        <text>Epilogue: Companion</text>
+      </navLabel>
+      <content src="Text/epilogue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint14">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/afterword.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint15">
+      <navLabel>
+        <text>Bonus Short Stories</text>
+      </navLabel>
+      <content src="Text/bonus.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint16">
+      <navLabel>
+        <text>Bonus Illustration</text>
+      </navLabel>
+      <content src="Text/bonus1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint17">
+      <navLabel>
+        <text>About J-Novel Club</text>
+      </navLabel>
+      <content src="Text/signup.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint18">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

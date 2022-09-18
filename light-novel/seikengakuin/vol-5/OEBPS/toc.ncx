@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <meta content="9781975335434" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Demon Sword Master of Excalibur Academy, Vol. 5</text>
+  </docTitle>
+  <docAuthor>
+    <text>Yu Shimizu</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="insert" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml"/>
+    </navPoint>
+    <navPoint id="titlepage" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="copyright" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="toc" playOrder="5">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter001" playOrder="6">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="Text/chapter001.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter002" playOrder="7">
+      <navLabel>
+        <text>Chapter 1 The Tyrannical Dragon Lord</text>
+      </navLabel>
+      <content src="Text/chapter002.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter005" playOrder="8">
+      <navLabel>
+        <text>Chapter 2 The Goddess’s Voice</text>
+      </navLabel>
+      <content src="Text/chapter005.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter010" playOrder="9">
+      <navLabel>
+        <text>Chapter 3 The Star of Calamity</text>
+      </navLabel>
+      <content src="Text/chapter010.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter011" playOrder="10">
+      <navLabel>
+        <text>Chapter 4 Demon Sword Rampage</text>
+      </navLabel>
+      <content src="Text/chapter011.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter014" playOrder="11">
+      <navLabel>
+        <text>Chapter 5 Extermination Mission</text>
+      </navLabel>
+      <content src="Text/chapter014.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter017" playOrder="12">
+      <navLabel>
+        <text>Chapter 6 Necrozoa</text>
+      </navLabel>
+      <content src="Text/chapter017.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter020" playOrder="13">
+      <navLabel>
+        <text>Chapter 7 Night Cometh</text>
+      </navLabel>
+      <content src="Text/chapter020.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter023" playOrder="14">
+      <navLabel>
+        <text>Chapter 8 The Demon Sword Rages</text>
+      </navLabel>
+      <content src="Text/chapter023.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter024" playOrder="15">
+      <navLabel>
+        <text>Chapter 9 The Undead King</text>
+      </navLabel>
+      <content src="Text/chapter024.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter029" playOrder="16">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="Text/chapter029.xhtml"/>
+    </navPoint>
+    <navPoint id="appendix001" playOrder="17">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/appendix001.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-12" playOrder="18">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletterSignup.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

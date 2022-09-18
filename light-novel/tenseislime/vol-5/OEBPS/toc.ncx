@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9781975301170" name="dtb:isbn"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>That Time I Got Reincarnated as a Slime, Vol. 5</text>
+  </docTitle>
+  <docAuthor>
+    <text>Fuse and Mitz Vah</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="ncx-1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-2" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-3" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-4" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-5" playOrder="5">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-6" playOrder="6">
+      <navLabel>
+        <text>Prologue: The Day of Ruin</text>
+      </navLabel>
+      <content src="Text/chapter001.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-7" playOrder="7">
+      <navLabel>
+        <text>Chapter 1: Calmer Days</text>
+      </navLabel>
+      <content src="Text/chapter001_e.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-8" playOrder="8">
+      <navLabel>
+        <text>Chapter 2: Prelude to Calamity</text>
+      </navLabel>
+      <content src="Text/chapter002_c.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-9" playOrder="9">
+      <navLabel>
+        <text>Chapter 3: Despair and Hope</text>
+      </navLabel>
+      <content src="Text/chapter003_e.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-10" playOrder="10">
+      <navLabel>
+        <text>Chapter 4: The Birth of a Demon Lord</text>
+      </navLabel>
+      <content src="Text/chapter004_b.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-11" playOrder="11">
+      <navLabel>
+        <text>Chapter 5: The Unleashed</text>
+      </navLabel>
+      <content src="Text/chapter005_j.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-14" playOrder="12">
+      <navLabel>
+        <text>Epilogue: The String-Puller in the Shadows</text>
+      </navLabel>
+      <content src="Text/chapter006_e.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-15" playOrder="13">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/afterword.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-16" playOrder="14">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletterSignup.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

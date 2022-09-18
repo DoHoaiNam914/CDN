@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9781975301224" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>That Time I Got Reincarnated as a Slime, Vol. 3</text>
+  </docTitle>
+  <docAuthor>
+    <text>Fuse and Mitz Vah</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="id_cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="insert001" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml"/>
+    </navPoint>
+    <navPoint id="id_titlepage" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="id_copy" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="toc" playOrder="5">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="File_253343_TOC_15868" playOrder="6">
+      <navLabel>
+        <text>Prologue: The Demon Lord Summit</text>
+      </navLabel>
+      <content src="Text/prologue_a.xhtml"/>
+    </navPoint>
+    <navPoint id="File_253343_TOC_15871" playOrder="7">
+      <navLabel>
+        <text>Chapter 1: The Name of a Nation</text>
+      </navLabel>
+      <content src="Text/chapter001a.xhtml"/>
+    </navPoint>
+    <navPoint id="File_253343_TOC_15874" playOrder="8">
+      <navLabel>
+        <text>Chapter 2: The Demon Lord Invades</text>
+      </navLabel>
+      <content src="Text/chapter002a.xhtml"/>
+    </navPoint>
+    <navPoint id="File_253343_TOC_15877" playOrder="9">
+      <navLabel>
+        <text>Chapter 3: The Congregation</text>
+      </navLabel>
+      <content src="Text/chapter003a.xhtml"/>
+    </navPoint>
+    <navPoint id="File_253343_TOC_15880" playOrder="10">
+      <navLabel>
+        <text>Chapter 4: The Advancing Malice</text>
+      </navLabel>
+      <content src="Text/chapter004a.xhtml"/>
+    </navPoint>
+    <navPoint id="File_253343_TOC_15881" playOrder="11">
+      <navLabel>
+        <text>Chapter 5: Charybdis</text>
+      </navLabel>
+      <content src="Text/chapter005a.xhtml"/>
+    </navPoint>
+    <navPoint id="File_253343_TOC_15886" playOrder="12">
+      <navLabel>
+        <text>Epilogue: A New Artifice</text>
+      </navLabel>
+      <content src="Text/chapter006a.xhtml"/>
+    </navPoint>
+    <navPoint id="File_253343_TOC_15886a" playOrder="13">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/afterword.xhtml#afterword"/>
+    </navPoint>
+    <navPoint id="id_newsletter" playOrder="14">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletterSignup.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

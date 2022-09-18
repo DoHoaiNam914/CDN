@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <meta content="9781975319168" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Demon Sword Master of Excalibur Academy, Vol. 2</text>
+  </docTitle>
+  <docAuthor>
+    <text>Yu Shimizu and Asagi Tosaka</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-2" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml"/>
+    </navPoint>
+    <navPoint id="titlepage" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="copyright" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="toc" playOrder="5">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter001" playOrder="6">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="Text/chapter001.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter002" playOrder="7">
+      <navLabel>
+        <text>Chapter 1 A Minion and Her Dark Lord</text>
+      </navLabel>
+      <content src="Text/chapter002.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter005" playOrder="8">
+      <navLabel>
+        <text>Chapter 2 The Princess’s Arrival</text>
+      </navLabel>
+      <content src="Text/chapter005.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter010" playOrder="9">
+      <navLabel>
+        <text>Chapter 3 Hyperion</text>
+      </navLabel>
+      <content src="Text/chapter010.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter013" playOrder="10">
+      <navLabel>
+        <text>Chapter 4 Evening Party</text>
+      </navLabel>
+      <content src="Text/chapter013.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter016" playOrder="11">
+      <navLabel>
+        <text>Chapter 5 A Mad Party</text>
+      </navLabel>
+      <content src="Text/chapter016.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter019" playOrder="12">
+      <navLabel>
+        <text>Chapter 6 Lost Queen</text>
+      </navLabel>
+      <content src="Text/chapter019.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter020" playOrder="13">
+      <navLabel>
+        <text>Chapter 7 The Two Queens</text>
+      </navLabel>
+      <content src="Text/chapter020.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter025" playOrder="14">
+      <navLabel>
+        <text>Chapter 8 The Arc Seven</text>
+      </navLabel>
+      <content src="Text/chapter025.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter026" playOrder="15">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="Text/chapter026.xhtml"/>
+    </navPoint>
+    <navPoint id="appendix001" playOrder="16">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/appendix001.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-12" playOrder="17">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletterSignup.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

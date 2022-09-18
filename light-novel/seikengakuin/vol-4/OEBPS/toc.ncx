@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <meta content="9781975320737" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Demon Sword Master of Excalibur Academy, Vol. 4</text>
+  </docTitle>
+  <docAuthor>
+    <text>Yu Shimizu</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="insert" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml"/>
+    </navPoint>
+    <navPoint id="titlepage" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="copyright" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="toc" playOrder="5">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="preface001" playOrder="6">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="Text/preface002.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter001" playOrder="7">
+      <navLabel>
+        <text>Chapter 1 Excalibur Academy’s Festival</text>
+      </navLabel>
+      <content src="Text/chapter001.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter006" playOrder="8">
+      <navLabel>
+        <text>Chapter 2 The Dark Lord Zol Vadis</text>
+      </navLabel>
+      <content src="Text/chapter006.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter007" playOrder="9">
+      <navLabel>
+        <text>Chapter 3 The Shade Fiends Creep Closer</text>
+      </navLabel>
+      <content src="Text/chapter007.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter012" playOrder="10">
+      <navLabel>
+        <text>Chapter 4 The Holy Light Festival</text>
+      </navLabel>
+      <content src="Text/chapter012.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter015" playOrder="11">
+      <navLabel>
+        <text>Chapter 5 The Sixth Assault Garden</text>
+      </navLabel>
+      <content src="Text/chapter015.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter018" playOrder="12">
+      <navLabel>
+        <text>Chapter 6 The Infernal Dragon Lord</text>
+      </navLabel>
+      <content src="Text/chapter018.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter019" playOrder="13">
+      <navLabel>
+        <text>Chapter 7 Dark Lord Vs Dark Lord</text>
+      </navLabel>
+      <content src="Text/chapter019.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter025" playOrder="14">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="Text/chapter025.xhtml"/>
+    </navPoint>
+    <navPoint id="appendix001" playOrder="15">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/appendix001.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-12" playOrder="16">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletterSignup.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
