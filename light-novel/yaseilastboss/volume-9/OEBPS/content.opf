@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id" xml:lang="en">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>A Wild Last Boss Appeared! Volume 9</dc:title>
+    <dc:creator id="creator01">Firehead</dc:creator>
+    <meta property="display-seq" refines="#creator01">1</meta>
+    <meta property="file-as" refines="#creator01">FIREHEAD</meta>
+    <meta property="role" refines="#creator01" scheme="marc:relators">aut</meta>
+    <dc:creator id="creator02">YahaKo</dc:creator>
+    <meta property="display-seq" refines="#creator02">2</meta>
+    <meta property="file-as" refines="#creator02">YAHAKO</meta>
+    <meta property="role" refines="#creator02" scheme="marc:relators">ill</meta>
+    <dc:creator id="creator03">Kevin Chen</dc:creator>
+    <meta property="display-seq" refines="#creator03">3</meta>
+    <meta property="file-as" refines="#creator03">CHEN, KEVIN</meta>
+    <meta property="role" refines="#creator03" scheme="marc:relators">trl</meta>
+    <dc:creator id="creator04">Kathleen Townsend</dc:creator>
+    <meta property="display-seq" refines="#creator04">4</meta>
+    <meta property="file-as" refines="#creator04">TOWNSEND, KATHLEEN</meta>
+    <meta property="role" refines="#creator04" scheme="marc:relators">edt</meta>
+    <dc:language>en</dc:language>
+    <dc:publisher>J-Novel Club</dc:publisher>
+    <dc:rights>Copyright © 2019 Firehead / YahaKo</dc:rights>
+    <dc:date>2022-07-15</dc:date>
+    <dc:identifier id="pub-id">9781718302334</dc:identifier>
+    <meta property="identifier-type" refines="#pub-id" scheme="onix:codelist5">15</meta>
+    <meta content="1.9.2" name="Sigil version"/>
+    <meta property="dcterms:modified">2022-07-18T12:33:12Z</meta>
+    <meta name="cover" content="Cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc.xhtml" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontmatter1.xhtml" href="Text/frontmatter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontmatter2.xhtml" href="Text/frontmatter2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontmatter3.xhtml" href="Text/frontmatter3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="stylesheet.css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="insert1.xhtml" href="Text/insert1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert2.xhtml" href="Text/insert2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert3.xhtml" href="Text/insert3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert4.xhtml" href="Text/insert4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert5.xhtml" href="Text/insert5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="signup.xhtml" href="Text/signup.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="jnovelclubCMYK.png" href="Images/jnovelclubCMYK.png" media-type="image/png"/>
+    <item id="insert6.xhtml" href="Text/insert6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert7.xhtml" href="Text/insert7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert8.xhtml" href="Text/insert8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert9.xhtml" href="Text/insert9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontmatter4.xhtml" href="Text/frontmatter4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bonus.xhtml" href="Text/bonus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="afterword1.xhtml" href="Text/afterword1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontmatter5.xhtml" href="Text/frontmatter5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontmatter6.xhtml" href="Text/frontmatter6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="afterword2.xhtml" href="Text/afterword2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bonus1.xhtml" href="Text/bonus1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Afterword1.jpg" href="Images/Afterword1.jpg" media-type="image/jpeg"/>
+    <item id="Afterword2.jpg" href="Images/Afterword2.jpg" media-type="image/jpeg"/>
+    <item id="Bonus.jpg" href="Images/Bonus.jpg" media-type="image/jpeg"/>
+    <item id="Cover.jpg" href="Images/Cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="FrontMatter1.jpg" href="Images/FrontMatter1.jpg" media-type="image/jpeg"/>
+    <item id="FrontMatter2.jpg" href="Images/FrontMatter2.jpg" media-type="image/jpeg"/>
+    <item id="FrontMatter3.jpg" href="Images/FrontMatter3.jpg" media-type="image/jpeg"/>
+    <item id="FrontMatter4.jpg" href="Images/FrontMatter4.jpg" media-type="image/jpeg"/>
+    <item id="FrontMatter5.jpg" href="Images/FrontMatter5.jpg" media-type="image/jpeg"/>
+    <item id="FrontMatter6.jpg" href="Images/FrontMatter6.jpg" media-type="image/jpeg"/>
+    <item id="FrontMatter7.jpg" href="Images/FrontMatter7.jpg" media-type="image/jpeg"/>
+    <item id="FrontMatter8.jpg" href="Images/FrontMatter8.jpg" media-type="image/jpeg"/>
+    <item id="Insert1.jpg" href="Images/Insert1.jpg" media-type="image/jpeg"/>
+    <item id="Insert2.jpg" href="Images/Insert2.jpg" media-type="image/jpeg"/>
+    <item id="Insert3.jpg" href="Images/Insert3.jpg" media-type="image/jpeg"/>
+    <item id="Insert4.jpg" href="Images/Insert4.jpg" media-type="image/jpeg"/>
+    <item id="Insert5.jpg" href="Images/Insert5.jpg" media-type="image/jpeg"/>
+    <item id="Insert6.jpg" href="Images/Insert6.jpg" media-type="image/jpeg"/>
+    <item id="Insert7.jpg" href="Images/Insert7.jpg" media-type="image/jpeg"/>
+    <item id="Insert8.jpg" href="Images/Insert8.jpg" media-type="image/jpeg"/>
+    <item id="Insert9.jpg" href="Images/Insert9.jpg" media-type="image/jpeg"/>
+    <item id="Insert10.jpg" href="Images/Insert10.jpg" media-type="image/jpeg"/>
+    <item id="insert10.xhtml" href="Text/insert10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="afterword.xhtml" href="Text/afterword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1_4.xhtml" href="Text/chapter1_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="side2.xhtml" href="Text/side2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1.xhtml" href="Text/chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1_1.xhtml" href="Text/chapter1_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1_2.xhtml" href="Text/chapter1_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1_3.xhtml" href="Text/chapter1_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="side1.xhtml" href="Text/side1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="side1_1.xhtml" href="Text/side1_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="side1_2.xhtml" href="Text/side1_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="side1_3.xhtml" href="Text/side1_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="side1_4.xhtml" href="Text/side1_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="side1_5.xhtml" href="Text/side1_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontmatter7.xhtml" href="Text/frontmatter7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="frontmatter8.xhtml" href="Text/frontmatter8.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine page-progression-direction="ltr" toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="frontmatter1.xhtml"/>
+    <itemref idref="frontmatter2.xhtml"/>
+    <itemref idref="frontmatter3.xhtml"/>
+    <itemref idref="frontmatter4.xhtml"/>
+    <itemref idref="frontmatter5.xhtml"/>
+    <itemref idref="frontmatter6.xhtml"/>
+    <itemref idref="frontmatter7.xhtml"/>
+    <itemref idref="frontmatter8.xhtml"/>
+    <itemref idref="chapter1.xhtml"/>
+    <itemref idref="insert1.xhtml"/>
+    <itemref idref="chapter1_1.xhtml"/>
+    <itemref idref="insert2.xhtml"/>
+    <itemref idref="chapter1_2.xhtml"/>
+    <itemref idref="insert3.xhtml"/>
+    <itemref idref="chapter1_3.xhtml"/>
+    <itemref idref="insert4.xhtml"/>
+    <itemref idref="chapter1_4.xhtml"/>
+    <itemref idref="side1.xhtml"/>
+    <itemref idref="insert5.xhtml"/>
+    <itemref idref="side1_1.xhtml"/>
+    <itemref idref="insert6.xhtml"/>
+    <itemref idref="side1_2.xhtml"/>
+    <itemref idref="insert7.xhtml"/>
+    <itemref idref="side1_3.xhtml"/>
+    <itemref idref="insert8.xhtml"/>
+    <itemref idref="side1_4.xhtml"/>
+    <itemref idref="insert9.xhtml"/>
+    <itemref idref="side1_5.xhtml"/>
+    <itemref idref="insert10.xhtml"/>
+    <itemref idref="side2.xhtml"/>
+    <itemref idref="afterword.xhtml"/>
+    <itemref idref="afterword1.xhtml"/>
+    <itemref idref="afterword2.xhtml"/>
+    <itemref idref="bonus.xhtml"/>
+    <itemref idref="bonus1.xhtml"/>
+    <itemref idref="toc.xhtml" linear="yes"/>
+    <itemref idref="signup.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="text" title="Text" href="Text/frontmatter1.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/toc.xhtml"/>
+  </guide>
+</package>
