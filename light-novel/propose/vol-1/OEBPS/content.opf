@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="uid" prefix="rendition: http://www.idpf.org/vocab/rendition/# schema: http://schema.org/" xml:lang="en" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">King’s Proposal, Vol. 1: The Witch of Resplendent Color</dc:title>
+    <meta property="title-type" refines="#title">main</meta>
+    <meta property="identifier-type" scheme="onix:codelist5" refines="#uid">15</meta>
+    <dc:language>en-US</dc:language>
+    <dc:creator id="creator">Koushi Tachibana and Tsunako</dc:creator>
+    <dc:publisher>Yen Press, LLC</dc:publisher>
+    <dc:source id="src-id">urn:isbn:9781975351502</dc:source>
+    <meta property="source-of" refines="#src-id">pagination</meta>
+    <meta property="identifier-type" scheme="onix:codelist5" refines="#src-id">15</meta>
+    <dc:rights>All rights reserved</dc:rights>
+    <meta property="dcterms:modified">2022-11-22T00:00:00Z</meta>
+    <meta id="auth" property="dcterms:creator">Koushi Tachibana and Tsunako</meta>
+    <meta property="dcterms:date">2022</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="rendition:spread">auto</meta>
+    <meta name="cover" content="cover-image" />
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilitySummary">This publication conforms to the EPUB Accessibility specification at WCAG Level A.</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilityFeature">ARIA</meta>
+    <meta property="schema:accessibilityFeature">displayTransformability</meta>
+    <meta property="schema:accessibilityFeature">printPageNumbers</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <dc:identifier id="uid">9781975351519</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="toc" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="html-cover-page" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert001" href="Text/insert001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert002" href="Text/insert002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert003" href="Text/insert003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert004" href="Text/insert004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert005" href="Text/insert005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tit" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="front" href="Text/front.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prologue" href="Text/prologue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prologue1" href="Text/prologue1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prologue2" href="Text/prologue2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1" href="Text/chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1a" href="Text/chapter1a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1b" href="Text/chapter1b.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2" href="Text/chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2a" href="Text/chapter2a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2b" href="Text/chapter2b.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2c" href="Text/chapter2c.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2d" href="Text/chapter2d.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3" href="Text/chapter3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3a" href="Text/chapter3a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3b" href="Text/chapter3b.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3c" href="Text/chapter3c.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3d" href="Text/chapter3d.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4" href="Text/chapter4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4a" href="Text/chapter4a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4b" href="Text/chapter4b.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4c" href="Text/chapter4c.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4d" href="Text/chapter4d.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5" href="Text/chapter5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5a" href="Text/chapter5a.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5b" href="Text/chapter5b.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5c" href="Text/chapter5c.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5d" href="Text/chapter5d.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter6" href="Text/chapter6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="afterword" href="Text/afterword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="newsletter" href="Text/newsletter.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image-001" href="Images/1.jpg" media-type="image/jpeg"/>
+    <item id="image-002" href="Images/2.jpg" media-type="image/jpeg"/>
+    <item id="cover-image" href="Images/9781975351519.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="image-004" href="Images/KingsProposal_Logos.jpg" media-type="image/jpeg"/>
+    <item id="image-005" href="Images/orn-1.jpg" media-type="image/jpeg"/>
+    <item id="image-006" href="Images/orn-2.jpg" media-type="image/jpeg"/>
+    <item id="image-007" href="Images/pg128.jpg" media-type="image/jpeg"/>
+    <item id="image-008" href="Images/pg144.jpg" media-type="image/jpeg"/>
+    <item id="image-009" href="Images/pg180-181.jpg" media-type="image/jpeg"/>
+    <item id="image-0010" href="Images/pg191.jpg" media-type="image/jpeg"/>
+    <item id="image-0011" href="Images/pg2.jpg" media-type="image/jpeg"/>
+    <item id="image-0012" href="Images/pg27.jpg" media-type="image/jpeg"/>
+    <item id="image-0013" href="Images/pg58.jpg" media-type="image/jpeg"/>
+    <item id="image-0014" href="Images/pg71.jpg" media-type="image/jpeg"/>
+    <item id="image-0015" href="Images/pg91.jpg" media-type="image/jpeg"/>
+    <item id="image-0016" href="Images/pg98.jpg" media-type="image/jpeg"/>
+    <item id="image-0017" href="Images/pgiii.jpg" media-type="image/jpeg"/>
+    <item id="image-0018" href="Images/Tachibana_KingsProposal_v1_insert_PG1.jpg" media-type="image/jpeg"/>
+    <item id="image-0019" href="Images/Tachibana_KingsProposal_v1_insert_PG2-3.jpg" media-type="image/jpeg"/>
+    <item id="image-0020" href="Images/Tachibana_KingsProposal_v1_insert_PG4-5.jpg" media-type="image/jpeg"/>
+    <item id="image-0021" href="Images/Tachibana_KingsProposal_v1_insert_PG6-7.jpg" media-type="image/jpeg"/>
+    <item id="image-0022" href="Images/Tachibana_KingsProposal_v1_insert_PG8.jpg" media-type="image/jpeg"/>
+    <item id="image-0023" href="Images/titlepage.jpg" media-type="image/jpeg"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="html-cover-page"/>
+    <itemref idref="insert001"/>
+    <itemref idref="insert002"/>
+    <itemref idref="insert003"/>
+    <itemref idref="insert004"/>
+    <itemref idref="insert005"/>
+    <itemref idref="tit"/>
+    <itemref idref="copyright"/>
+    <itemref idref="front"/>
+    <itemref idref="contents"/>
+    <itemref idref="prologue"/>
+    <itemref idref="prologue1"/>
+    <itemref idref="prologue2"/>
+    <itemref idref="chapter1"/>
+    <itemref idref="chapter1a"/>
+    <itemref idref="chapter1b"/>
+    <itemref idref="chapter2"/>
+    <itemref idref="chapter2a"/>
+    <itemref idref="chapter2b"/>
+    <itemref idref="chapter2c"/>
+    <itemref idref="chapter2d"/>
+    <itemref idref="chapter3"/>
+    <itemref idref="chapter3a"/>
+    <itemref idref="chapter3b"/>
+    <itemref idref="chapter3c"/>
+    <itemref idref="chapter3d"/>
+    <itemref idref="chapter4"/>
+    <itemref idref="chapter4a"/>
+    <itemref idref="chapter4b"/>
+    <itemref idref="chapter4c"/>
+    <itemref idref="chapter4d"/>
+    <itemref idref="chapter5"/>
+    <itemref idref="chapter5a"/>
+    <itemref idref="chapter5b"/>
+    <itemref idref="chapter5c"/>
+    <itemref idref="chapter5d"/>
+    <itemref idref="chapter6"/>
+    <itemref idref="afterword"/>
+    <itemref idref="newsletter"/>
+  </spine>
+  <guide>
+    <reference type="start" title="Begining" href="Text/cover.xhtml"/>
+    <reference type="cover" title="Cover Image" href="Text/cover.xhtml"/>
+  </guide>
+</package>

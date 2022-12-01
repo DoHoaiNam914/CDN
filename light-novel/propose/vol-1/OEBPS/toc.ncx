@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9781975351519" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="208" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>King’s Proposal, Vol. 1: The Witch of Resplendent Color</text>
+  </docTitle>
+  <docAuthor>
+    <text>Koushi Tachibana and Tsunako</text>
+  </docAuthor>
+  <navMap>
+    <navPoint class="other" id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml#ins"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/title.xhtml#tit"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="Text/contents.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Prologue: First Love</text>
+      </navLabel>
+      <content src="Text/prologue.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-7" playOrder="7">
+      <navLabel>
+        <text>Chapter 1. Coalescence</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-8" playOrder="8">
+      <navLabel>
+        <text>Chapter 2. Garden</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-9" playOrder="9">
+      <navLabel>
+        <text>Chapter 3. Conversion</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-10" playOrder="10">
+      <navLabel>
+        <text>Chapter 4. Secret Rendezvous</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-11" playOrder="11">
+      <navLabel>
+        <text>Chapter 5. Witch</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-12" playOrder="12">
+      <navLabel>
+        <text>Chapter 6. Proposal</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-13" playOrder="13">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/afterword.xhtml"/>
+    </navPoint>
+    <navPoint class="other" id="navpoint-14" playOrder="14">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletter.xhtml"/>
+    </navPoint>
+  </navMap>
+  <pageList>
+    <pageTarget id="id_cov" type="normal" value="Cover Page">
+      <navLabel>
+        <text>Cover Page</text>
+      </navLabel>
+      <content src="Text/cover.xhtml#cover"/>
+    </pageTarget>
+    <pageTarget id="id_i" type="normal" value="i">
+      <navLabel>
+        <text>i</text>
+      </navLabel>
+      <content src="Text/title.xhtml#pg_i"/>
+    </pageTarget>
+    <pageTarget id="id_ii" type="normal" value="ii">
+      <navLabel>
+        <text>ii</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml#pg_ii"/>
+    </pageTarget>
+    <pageTarget id="id_iii" type="normal" value="iii">
+      <navLabel>
+        <text>iii</text>
+      </navLabel>
+      <content src="Text/front.xhtml#pg_iii"/>
+    </pageTarget>
+    <pageTarget id="id_1" type="normal" value="1">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/prologue.xhtml#pg_1"/>
+    </pageTarget>
+    <pageTarget id="id_2" type="normal" value="2">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/prologue1.xhtml#pg_2"/>
+    </pageTarget>
+    <pageTarget id="id_3" type="normal" value="3">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/prologue2.xhtml#pg_3"/>
+    </pageTarget>
+    <pageTarget id="id_4" type="normal" value="4">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/prologue2.xhtml#pg_4"/>
+    </pageTarget>
+    <pageTarget id="id_5" type="normal" value="5">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="Text/prologue2.xhtml#pg_5"/>
+    </pageTarget>
+    <pageTarget id="id_7" type="normal" value="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_7"/>
+    </pageTarget>
+    <pageTarget id="id_8" type="normal" value="8">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_8"/>
+    </pageTarget>
+    <pageTarget id="id_9" type="normal" value="9">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_9"/>
+    </pageTarget>
+    <pageTarget id="id_10" type="normal" value="10">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_10"/>
+    </pageTarget>
+    <pageTarget id="id_11" type="normal" value="11">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_11"/>
+    </pageTarget>
+    <pageTarget id="id_12" type="normal" value="12">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_12"/>
+    </pageTarget>
+    <pageTarget id="id_13" type="normal" value="13">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_13"/>
+    </pageTarget>
+    <pageTarget id="id_14" type="normal" value="14">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_14"/>
+    </pageTarget>
+    <pageTarget id="id_15" type="normal" value="15">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_15"/>
+    </pageTarget>
+    <pageTarget id="id_16" type="normal" value="16">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_16"/>
+    </pageTarget>
+    <pageTarget id="id_17" type="normal" value="17">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_17"/>
+    </pageTarget>
+    <pageTarget id="id_18" type="normal" value="18">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_18"/>
+    </pageTarget>
+    <pageTarget id="id_19" type="normal" value="19">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_19"/>
+    </pageTarget>
+    <pageTarget id="id_20" type="normal" value="20">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_20"/>
+    </pageTarget>
+    <pageTarget id="id_21" type="normal" value="21">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_21"/>
+    </pageTarget>
+    <pageTarget id="id_22" type="normal" value="22">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_22"/>
+    </pageTarget>
+    <pageTarget id="id_23" type="normal" value="23">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_23"/>
+    </pageTarget>
+    <pageTarget id="id_24" type="normal" value="24">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_24"/>
+    </pageTarget>
+    <pageTarget id="id_25" type="normal" value="25">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_25"/>
+    </pageTarget>
+    <pageTarget id="id_26" type="normal" value="26">
+      <navLabel>
+        <text>26</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml#pg_26"/>
+    </pageTarget>
+    <pageTarget id="id_27" type="normal" value="27">
+      <navLabel>
+        <text>27</text>
+      </navLabel>
+      <content src="Text/chapter1a.xhtml#pg_27"/>
+    </pageTarget>
+    <pageTarget id="id_28" type="normal" value="28">
+      <navLabel>
+        <text>28</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_28"/>
+    </pageTarget>
+    <pageTarget id="id_29" type="normal" value="29">
+      <navLabel>
+        <text>29</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_29"/>
+    </pageTarget>
+    <pageTarget id="id_30" type="normal" value="30">
+      <navLabel>
+        <text>30</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_30"/>
+    </pageTarget>
+    <pageTarget id="id_31" type="normal" value="31">
+      <navLabel>
+        <text>31</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_31"/>
+    </pageTarget>
+    <pageTarget id="id_32" type="normal" value="32">
+      <navLabel>
+        <text>32</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_32"/>
+    </pageTarget>
+    <pageTarget id="id_33" type="normal" value="33">
+      <navLabel>
+        <text>33</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_33"/>
+    </pageTarget>
+    <pageTarget id="id_34" type="normal" value="34">
+      <navLabel>
+        <text>34</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_34"/>
+    </pageTarget>
+    <pageTarget id="id_35" type="normal" value="35">
+      <navLabel>
+        <text>35</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_35"/>
+    </pageTarget>
+    <pageTarget id="id_36" type="normal" value="36">
+      <navLabel>
+        <text>36</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_36"/>
+    </pageTarget>
+    <pageTarget id="id_37" type="normal" value="37">
+      <navLabel>
+        <text>37</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_37"/>
+    </pageTarget>
+    <pageTarget id="id_38" type="normal" value="38">
+      <navLabel>
+        <text>38</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_38"/>
+    </pageTarget>
+    <pageTarget id="id_39" type="normal" value="39">
+      <navLabel>
+        <text>39</text>
+      </navLabel>
+      <content src="Text/chapter1b.xhtml#pg_39"/>
+    </pageTarget>
+    <pageTarget id="id_41" type="normal" value="41">
+      <navLabel>
+        <text>41</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_41"/>
+    </pageTarget>
+    <pageTarget id="id_42" type="normal" value="42">
+      <navLabel>
+        <text>42</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_42"/>
+    </pageTarget>
+    <pageTarget id="id_43" type="normal" value="43">
+      <navLabel>
+        <text>43</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_43"/>
+    </pageTarget>
+    <pageTarget id="id_44" type="normal" value="44">
+      <navLabel>
+        <text>44</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_44"/>
+    </pageTarget>
+    <pageTarget id="id_45" type="normal" value="45">
+      <navLabel>
+        <text>45</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_45"/>
+    </pageTarget>
+    <pageTarget id="id_46" type="normal" value="46">
+      <navLabel>
+        <text>46</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_46"/>
+    </pageTarget>
+    <pageTarget id="id_47" type="normal" value="47">
+      <navLabel>
+        <text>47</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_47"/>
+    </pageTarget>
+    <pageTarget id="id_48" type="normal" value="48">
+      <navLabel>
+        <text>48</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_48"/>
+    </pageTarget>
+    <pageTarget id="id_49" type="normal" value="49">
+      <navLabel>
+        <text>49</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_49"/>
+    </pageTarget>
+    <pageTarget id="id_50" type="normal" value="50">
+      <navLabel>
+        <text>50</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_50"/>
+    </pageTarget>
+    <pageTarget id="id_51" type="normal" value="51">
+      <navLabel>
+        <text>51</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_51"/>
+    </pageTarget>
+    <pageTarget id="id_52" type="normal" value="52">
+      <navLabel>
+        <text>52</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_52"/>
+    </pageTarget>
+    <pageTarget id="id_53" type="normal" value="53">
+      <navLabel>
+        <text>53</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_53"/>
+    </pageTarget>
+    <pageTarget id="id_54" type="normal" value="54">
+      <navLabel>
+        <text>54</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_54"/>
+    </pageTarget>
+    <pageTarget id="id_55" type="normal" value="55">
+      <navLabel>
+        <text>55</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_55"/>
+    </pageTarget>
+    <pageTarget id="id_56" type="normal" value="56">
+      <navLabel>
+        <text>56</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_56"/>
+    </pageTarget>
+    <pageTarget id="id_57" type="normal" value="57">
+      <navLabel>
+        <text>57</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml#pg_57"/>
+    </pageTarget>
+    <pageTarget id="id_58" type="normal" value="58">
+      <navLabel>
+        <text>58</text>
+      </navLabel>
+      <content src="Text/chapter2a.xhtml#pg_58"/>
+    </pageTarget>
+    <pageTarget id="id_59" type="normal" value="59">
+      <navLabel>
+        <text>59</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_59"/>
+    </pageTarget>
+    <pageTarget id="id_60" type="normal" value="60">
+      <navLabel>
+        <text>60</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_60"/>
+    </pageTarget>
+    <pageTarget id="id_61" type="normal" value="61">
+      <navLabel>
+        <text>61</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_61"/>
+    </pageTarget>
+    <pageTarget id="id_62" type="normal" value="62">
+      <navLabel>
+        <text>62</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_62"/>
+    </pageTarget>
+    <pageTarget id="id_63" type="normal" value="63">
+      <navLabel>
+        <text>63</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_63"/>
+    </pageTarget>
+    <pageTarget id="id_64" type="normal" value="64">
+      <navLabel>
+        <text>64</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_64"/>
+    </pageTarget>
+    <pageTarget id="id_65" type="normal" value="65">
+      <navLabel>
+        <text>65</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_65"/>
+    </pageTarget>
+    <pageTarget id="id_66" type="normal" value="66">
+      <navLabel>
+        <text>66</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_66"/>
+    </pageTarget>
+    <pageTarget id="id_67" type="normal" value="67">
+      <navLabel>
+        <text>67</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_67"/>
+    </pageTarget>
+    <pageTarget id="id_68" type="normal" value="68">
+      <navLabel>
+        <text>68</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_68"/>
+    </pageTarget>
+    <pageTarget id="id_69" type="normal" value="69">
+      <navLabel>
+        <text>69</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_69"/>
+    </pageTarget>
+    <pageTarget id="id_70" type="normal" value="70">
+      <navLabel>
+        <text>70</text>
+      </navLabel>
+      <content src="Text/chapter2b.xhtml#pg_70"/>
+    </pageTarget>
+    <pageTarget id="id_71" type="normal" value="71">
+      <navLabel>
+        <text>71</text>
+      </navLabel>
+      <content src="Text/chapter2c.xhtml#pg_71"/>
+    </pageTarget>
+    <pageTarget id="id_72" type="normal" value="72">
+      <navLabel>
+        <text>72</text>
+      </navLabel>
+      <content src="Text/chapter2d.xhtml#pg_72"/>
+    </pageTarget>
+    <pageTarget id="id_73" type="normal" value="73">
+      <navLabel>
+        <text>73</text>
+      </navLabel>
+      <content src="Text/chapter2d.xhtml#pg_73"/>
+    </pageTarget>
+    <pageTarget id="id_74" type="normal" value="74">
+      <navLabel>
+        <text>74</text>
+      </navLabel>
+      <content src="Text/chapter2d.xhtml#pg_74"/>
+    </pageTarget>
+    <pageTarget id="id_75" type="normal" value="75">
+      <navLabel>
+        <text>75</text>
+      </navLabel>
+      <content src="Text/chapter2d.xhtml#pg_75"/>
+    </pageTarget>
+    <pageTarget id="id_76" type="normal" value="76">
+      <navLabel>
+        <text>76</text>
+      </navLabel>
+      <content src="Text/chapter2d.xhtml#pg_76"/>
+    </pageTarget>
+    <pageTarget id="id_77" type="normal" value="77">
+      <navLabel>
+        <text>77</text>
+      </navLabel>
+      <content src="Text/chapter2d.xhtml#pg_77"/>
+    </pageTarget>
+    <pageTarget id="id_79" type="normal" value="79">
+      <navLabel>
+        <text>79</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_79"/>
+    </pageTarget>
+    <pageTarget id="id_80" type="normal" value="80">
+      <navLabel>
+        <text>80</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_80"/>
+    </pageTarget>
+    <pageTarget id="id_81" type="normal" value="81">
+      <navLabel>
+        <text>81</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_81"/>
+    </pageTarget>
+    <pageTarget id="id_82" type="normal" value="82">
+      <navLabel>
+        <text>82</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_82"/>
+    </pageTarget>
+    <pageTarget id="id_83" type="normal" value="83">
+      <navLabel>
+        <text>83</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_83"/>
+    </pageTarget>
+    <pageTarget id="id_84" type="normal" value="84">
+      <navLabel>
+        <text>84</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_84"/>
+    </pageTarget>
+    <pageTarget id="id_85" type="normal" value="85">
+      <navLabel>
+        <text>85</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_85"/>
+    </pageTarget>
+    <pageTarget id="id_86" type="normal" value="86">
+      <navLabel>
+        <text>86</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_86"/>
+    </pageTarget>
+    <pageTarget id="id_87" type="normal" value="87">
+      <navLabel>
+        <text>87</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_87"/>
+    </pageTarget>
+    <pageTarget id="id_88" type="normal" value="88">
+      <navLabel>
+        <text>88</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_88"/>
+    </pageTarget>
+    <pageTarget id="id_89" type="normal" value="89">
+      <navLabel>
+        <text>89</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_89"/>
+    </pageTarget>
+    <pageTarget id="id_90" type="normal" value="90">
+      <navLabel>
+        <text>90</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml#pg_90"/>
+    </pageTarget>
+    <pageTarget id="id_91" type="normal" value="91">
+      <navLabel>
+        <text>91</text>
+      </navLabel>
+      <content src="Text/chapter3a.xhtml#pg_91"/>
+    </pageTarget>
+    <pageTarget id="id_92" type="normal" value="92">
+      <navLabel>
+        <text>92</text>
+      </navLabel>
+      <content src="Text/chapter3b.xhtml#pg_92"/>
+    </pageTarget>
+    <pageTarget id="id_93" type="normal" value="93">
+      <navLabel>
+        <text>93</text>
+      </navLabel>
+      <content src="Text/chapter3b.xhtml#pg_93"/>
+    </pageTarget>
+    <pageTarget id="id_94" type="normal" value="94">
+      <navLabel>
+        <text>94</text>
+      </navLabel>
+      <content src="Text/chapter3b.xhtml#pg_94"/>
+    </pageTarget>
+    <pageTarget id="id_95" type="normal" value="95">
+      <navLabel>
+        <text>95</text>
+      </navLabel>
+      <content src="Text/chapter3b.xhtml#pg_95"/>
+    </pageTarget>
+    <pageTarget id="id_96" type="normal" value="96">
+      <navLabel>
+        <text>96</text>
+      </navLabel>
+      <content src="Text/chapter3b.xhtml#pg_96"/>
+    </pageTarget>
+    <pageTarget id="id_97" type="normal" value="97">
+      <navLabel>
+        <text>97</text>
+      </navLabel>
+      <content src="Text/chapter3b.xhtml#pg_97"/>
+    </pageTarget>
+    <pageTarget id="id_98" type="normal" value="98">
+      <navLabel>
+        <text>98</text>
+      </navLabel>
+      <content src="Text/chapter3c.xhtml#pg_98"/>
+    </pageTarget>
+    <pageTarget id="id_99" type="normal" value="99">
+      <navLabel>
+        <text>99</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_99"/>
+    </pageTarget>
+    <pageTarget id="id_100" type="normal" value="100">
+      <navLabel>
+        <text>100</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_100"/>
+    </pageTarget>
+    <pageTarget id="id_101" type="normal" value="101">
+      <navLabel>
+        <text>101</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_101"/>
+    </pageTarget>
+    <pageTarget id="id_102" type="normal" value="102">
+      <navLabel>
+        <text>102</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_102"/>
+    </pageTarget>
+    <pageTarget id="id_103" type="normal" value="103">
+      <navLabel>
+        <text>103</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_103"/>
+    </pageTarget>
+    <pageTarget id="id_104" type="normal" value="104">
+      <navLabel>
+        <text>104</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_104"/>
+    </pageTarget>
+    <pageTarget id="id_105" type="normal" value="105">
+      <navLabel>
+        <text>105</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_105"/>
+    </pageTarget>
+    <pageTarget id="id_106" type="normal" value="106">
+      <navLabel>
+        <text>106</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_106"/>
+    </pageTarget>
+    <pageTarget id="id_107" type="normal" value="107">
+      <navLabel>
+        <text>107</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_107"/>
+    </pageTarget>
+    <pageTarget id="id_108" type="normal" value="108">
+      <navLabel>
+        <text>108</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_108"/>
+    </pageTarget>
+    <pageTarget id="id_109" type="normal" value="109">
+      <navLabel>
+        <text>109</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_109"/>
+    </pageTarget>
+    <pageTarget id="id_110" type="normal" value="110">
+      <navLabel>
+        <text>110</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_110"/>
+    </pageTarget>
+    <pageTarget id="id_111" type="normal" value="111">
+      <navLabel>
+        <text>111</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_111"/>
+    </pageTarget>
+    <pageTarget id="id_112" type="normal" value="112">
+      <navLabel>
+        <text>112</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_112"/>
+    </pageTarget>
+    <pageTarget id="id_113" type="normal" value="113">
+      <navLabel>
+        <text>113</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_113"/>
+    </pageTarget>
+    <pageTarget id="id_114" type="normal" value="114">
+      <navLabel>
+        <text>114</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_114"/>
+    </pageTarget>
+    <pageTarget id="id_115" type="normal" value="115">
+      <navLabel>
+        <text>115</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_115"/>
+    </pageTarget>
+    <pageTarget id="id_116" type="normal" value="116">
+      <navLabel>
+        <text>116</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_116"/>
+    </pageTarget>
+    <pageTarget id="id_117" type="normal" value="117">
+      <navLabel>
+        <text>117</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_117"/>
+    </pageTarget>
+    <pageTarget id="id_118" type="normal" value="118">
+      <navLabel>
+        <text>118</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_118"/>
+    </pageTarget>
+    <pageTarget id="id_119" type="normal" value="119">
+      <navLabel>
+        <text>119</text>
+      </navLabel>
+      <content src="Text/chapter3d.xhtml#pg_119"/>
+    </pageTarget>
+    <pageTarget id="id_121" type="normal" value="121">
+      <navLabel>
+        <text>121</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml#pg_121"/>
+    </pageTarget>
+    <pageTarget id="id_122" type="normal" value="122">
+      <navLabel>
+        <text>122</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml#pg_122"/>
+    </pageTarget>
+    <pageTarget id="id_123" type="normal" value="123">
+      <navLabel>
+        <text>123</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml#pg_123"/>
+    </pageTarget>
+    <pageTarget id="id_124" type="normal" value="124">
+      <navLabel>
+        <text>124</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml#pg_124"/>
+    </pageTarget>
+    <pageTarget id="id_125" type="normal" value="125">
+      <navLabel>
+        <text>125</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml#pg_125"/>
+    </pageTarget>
+    <pageTarget id="id_126" type="normal" value="126">
+      <navLabel>
+        <text>126</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml#pg_126"/>
+    </pageTarget>
+    <pageTarget id="id_127" type="normal" value="127">
+      <navLabel>
+        <text>127</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml#pg_127"/>
+    </pageTarget>
+    <pageTarget id="id_128" type="normal" value="128">
+      <navLabel>
+        <text>128</text>
+      </navLabel>
+      <content src="Text/chapter4a.xhtml#pg_128"/>
+    </pageTarget>
+    <pageTarget id="id_129" type="normal" value="129">
+      <navLabel>
+        <text>129</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_129"/>
+    </pageTarget>
+    <pageTarget id="id_130" type="normal" value="130">
+      <navLabel>
+        <text>130</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_130"/>
+    </pageTarget>
+    <pageTarget id="id_131" type="normal" value="131">
+      <navLabel>
+        <text>131</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_131"/>
+    </pageTarget>
+    <pageTarget id="id_132" type="normal" value="132">
+      <navLabel>
+        <text>132</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_132"/>
+    </pageTarget>
+    <pageTarget id="id_133" type="normal" value="133">
+      <navLabel>
+        <text>133</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_133"/>
+    </pageTarget>
+    <pageTarget id="id_134" type="normal" value="134">
+      <navLabel>
+        <text>134</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_134"/>
+    </pageTarget>
+    <pageTarget id="id_135" type="normal" value="135">
+      <navLabel>
+        <text>135</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_135"/>
+    </pageTarget>
+    <pageTarget id="id_136" type="normal" value="136">
+      <navLabel>
+        <text>136</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_136"/>
+    </pageTarget>
+    <pageTarget id="id_137" type="normal" value="137">
+      <navLabel>
+        <text>137</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_137"/>
+    </pageTarget>
+    <pageTarget id="id_138" type="normal" value="138">
+      <navLabel>
+        <text>138</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_138"/>
+    </pageTarget>
+    <pageTarget id="id_139" type="normal" value="139">
+      <navLabel>
+        <text>139</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_139"/>
+    </pageTarget>
+    <pageTarget id="id_140" type="normal" value="140">
+      <navLabel>
+        <text>140</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_140"/>
+    </pageTarget>
+    <pageTarget id="id_141" type="normal" value="141">
+      <navLabel>
+        <text>141</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_141"/>
+    </pageTarget>
+    <pageTarget id="id_142" type="normal" value="142">
+      <navLabel>
+        <text>142</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_142"/>
+    </pageTarget>
+    <pageTarget id="id_143" type="normal" value="143">
+      <navLabel>
+        <text>143</text>
+      </navLabel>
+      <content src="Text/chapter4b.xhtml#pg_143"/>
+    </pageTarget>
+    <pageTarget id="id_144" type="normal" value="144">
+      <navLabel>
+        <text>144</text>
+      </navLabel>
+      <content src="Text/chapter4c.xhtml#pg_144"/>
+    </pageTarget>
+    <pageTarget id="id_145" type="normal" value="145">
+      <navLabel>
+        <text>145</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_145"/>
+    </pageTarget>
+    <pageTarget id="id_146" type="normal" value="146">
+      <navLabel>
+        <text>146</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_146"/>
+    </pageTarget>
+    <pageTarget id="id_147" type="normal" value="147">
+      <navLabel>
+        <text>147</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_147"/>
+    </pageTarget>
+    <pageTarget id="id_148" type="normal" value="148">
+      <navLabel>
+        <text>148</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_148"/>
+    </pageTarget>
+    <pageTarget id="id_149" type="normal" value="149">
+      <navLabel>
+        <text>149</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_149"/>
+    </pageTarget>
+    <pageTarget id="id_150" type="normal" value="150">
+      <navLabel>
+        <text>150</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_150"/>
+    </pageTarget>
+    <pageTarget id="id_151" type="normal" value="151">
+      <navLabel>
+        <text>151</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_151"/>
+    </pageTarget>
+    <pageTarget id="id_152" type="normal" value="152">
+      <navLabel>
+        <text>152</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_152"/>
+    </pageTarget>
+    <pageTarget id="id_153" type="normal" value="153">
+      <navLabel>
+        <text>153</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_153"/>
+    </pageTarget>
+    <pageTarget id="id_154" type="normal" value="154">
+      <navLabel>
+        <text>154</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_154"/>
+    </pageTarget>
+    <pageTarget id="id_155" type="normal" value="155">
+      <navLabel>
+        <text>155</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_155"/>
+    </pageTarget>
+    <pageTarget id="id_156" type="normal" value="156">
+      <navLabel>
+        <text>156</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_156"/>
+    </pageTarget>
+    <pageTarget id="id_157" type="normal" value="157">
+      <navLabel>
+        <text>157</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_157"/>
+    </pageTarget>
+    <pageTarget id="id_158" type="normal" value="158">
+      <navLabel>
+        <text>158</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_158"/>
+    </pageTarget>
+    <pageTarget id="id_159" type="normal" value="159">
+      <navLabel>
+        <text>159</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_159"/>
+    </pageTarget>
+    <pageTarget id="id_160" type="normal" value="160">
+      <navLabel>
+        <text>160</text>
+      </navLabel>
+      <content src="Text/chapter4d.xhtml#pg_160"/>
+    </pageTarget>
+    <pageTarget id="id_161" type="normal" value="161">
+      <navLabel>
+        <text>161</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_161"/>
+    </pageTarget>
+    <pageTarget id="id_162" type="normal" value="162">
+      <navLabel>
+        <text>162</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_162"/>
+    </pageTarget>
+    <pageTarget id="id_163" type="normal" value="163">
+      <navLabel>
+        <text>163</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_163"/>
+    </pageTarget>
+    <pageTarget id="id_164" type="normal" value="164">
+      <navLabel>
+        <text>164</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_164"/>
+    </pageTarget>
+    <pageTarget id="id_165" type="normal" value="165">
+      <navLabel>
+        <text>165</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_165"/>
+    </pageTarget>
+    <pageTarget id="id_166" type="normal" value="166">
+      <navLabel>
+        <text>166</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_166"/>
+    </pageTarget>
+    <pageTarget id="id_167" type="normal" value="167">
+      <navLabel>
+        <text>167</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_167"/>
+    </pageTarget>
+    <pageTarget id="id_168" type="normal" value="168">
+      <navLabel>
+        <text>168</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_168"/>
+    </pageTarget>
+    <pageTarget id="id_169" type="normal" value="169">
+      <navLabel>
+        <text>169</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_169"/>
+    </pageTarget>
+    <pageTarget id="id_170" type="normal" value="170">
+      <navLabel>
+        <text>170</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_170"/>
+    </pageTarget>
+    <pageTarget id="id_171" type="normal" value="171">
+      <navLabel>
+        <text>171</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_171"/>
+    </pageTarget>
+    <pageTarget id="id_172" type="normal" value="172">
+      <navLabel>
+        <text>172</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_172"/>
+    </pageTarget>
+    <pageTarget id="id_173" type="normal" value="173">
+      <navLabel>
+        <text>173</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_173"/>
+    </pageTarget>
+    <pageTarget id="id_174" type="normal" value="174">
+      <navLabel>
+        <text>174</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_174"/>
+    </pageTarget>
+    <pageTarget id="id_175" type="normal" value="175">
+      <navLabel>
+        <text>175</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_175"/>
+    </pageTarget>
+    <pageTarget id="id_176" type="normal" value="176">
+      <navLabel>
+        <text>176</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_176"/>
+    </pageTarget>
+    <pageTarget id="id_177" type="normal" value="177">
+      <navLabel>
+        <text>177</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_177"/>
+    </pageTarget>
+    <pageTarget id="id_178" type="normal" value="178">
+      <navLabel>
+        <text>178</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_178"/>
+    </pageTarget>
+    <pageTarget id="id_179" type="normal" value="179">
+      <navLabel>
+        <text>179</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml#pg_179"/>
+    </pageTarget>
+    <pageTarget id="id_180" type="normal" value="180">
+      <navLabel>
+        <text>180</text>
+      </navLabel>
+      <content src="Text/chapter5a.xhtml#pg_180"/>
+    </pageTarget>
+    <pageTarget id="id_181" type="normal" value="181">
+      <navLabel>
+        <text>181</text>
+      </navLabel>
+      <content src="Text/chapter5a.xhtml#pg_181"/>
+    </pageTarget>
+    <pageTarget id="id_182" type="normal" value="182">
+      <navLabel>
+        <text>182</text>
+      </navLabel>
+      <content src="Text/chapter5b.xhtml#pg_182"/>
+    </pageTarget>
+    <pageTarget id="id_183" type="normal" value="183">
+      <navLabel>
+        <text>183</text>
+      </navLabel>
+      <content src="Text/chapter5b.xhtml#pg_183"/>
+    </pageTarget>
+    <pageTarget id="id_184" type="normal" value="184">
+      <navLabel>
+        <text>184</text>
+      </navLabel>
+      <content src="Text/chapter5b.xhtml#pg_184"/>
+    </pageTarget>
+    <pageTarget id="id_185" type="normal" value="185">
+      <navLabel>
+        <text>185</text>
+      </navLabel>
+      <content src="Text/chapter5b.xhtml#pg_185"/>
+    </pageTarget>
+    <pageTarget id="id_186" type="normal" value="186">
+      <navLabel>
+        <text>186</text>
+      </navLabel>
+      <content src="Text/chapter5b.xhtml#pg_186"/>
+    </pageTarget>
+    <pageTarget id="id_187" type="normal" value="187">
+      <navLabel>
+        <text>187</text>
+      </navLabel>
+      <content src="Text/chapter5b.xhtml#pg_187"/>
+    </pageTarget>
+    <pageTarget id="id_188" type="normal" value="188">
+      <navLabel>
+        <text>188</text>
+      </navLabel>
+      <content src="Text/chapter5b.xhtml#pg_188"/>
+    </pageTarget>
+    <pageTarget id="id_189" type="normal" value="189">
+      <navLabel>
+        <text>189</text>
+      </navLabel>
+      <content src="Text/chapter5b.xhtml#pg_189"/>
+    </pageTarget>
+    <pageTarget id="id_190" type="normal" value="190">
+      <navLabel>
+        <text>190</text>
+      </navLabel>
+      <content src="Text/chapter5b.xhtml#pg_190"/>
+    </pageTarget>
+    <pageTarget id="id_191" type="normal" value="191">
+      <navLabel>
+        <text>191</text>
+      </navLabel>
+      <content src="Text/chapter5c.xhtml#pg_191"/>
+    </pageTarget>
+    <pageTarget id="id_192" type="normal" value="192">
+      <navLabel>
+        <text>192</text>
+      </navLabel>
+      <content src="Text/chapter5d.xhtml#pg_192"/>
+    </pageTarget>
+    <pageTarget id="id_193" type="normal" value="193">
+      <navLabel>
+        <text>193</text>
+      </navLabel>
+      <content src="Text/chapter5d.xhtml#pg_193"/>
+    </pageTarget>
+    <pageTarget id="id_194" type="normal" value="194">
+      <navLabel>
+        <text>194</text>
+      </navLabel>
+      <content src="Text/chapter5d.xhtml#pg_194"/>
+    </pageTarget>
+    <pageTarget id="id_195" type="normal" value="195">
+      <navLabel>
+        <text>195</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml#pg_195"/>
+    </pageTarget>
+    <pageTarget id="id_196" type="normal" value="196">
+      <navLabel>
+        <text>196</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml#pg_196"/>
+    </pageTarget>
+    <pageTarget id="id_197" type="normal" value="197">
+      <navLabel>
+        <text>197</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml#pg_197"/>
+    </pageTarget>
+    <pageTarget id="id_198" type="normal" value="198">
+      <navLabel>
+        <text>198</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml#pg_198"/>
+    </pageTarget>
+    <pageTarget id="id_199" type="normal" value="199">
+      <navLabel>
+        <text>199</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml#pg_199"/>
+    </pageTarget>
+    <pageTarget id="id_201" type="normal" value="201">
+      <navLabel>
+        <text>201</text>
+      </navLabel>
+      <content src="Text/afterword.xhtml#pg_201"/>
+    </pageTarget>
+    <pageTarget id="id_202" type="normal" value="202">
+      <navLabel>
+        <text>202</text>
+      </navLabel>
+      <content src="Text/afterword.xhtml#pg_202"/>
+    </pageTarget>
+  </pageList>
+</ncx>
