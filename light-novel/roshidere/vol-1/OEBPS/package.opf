@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="uid" xml:lang="en" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="title">Alya Sometimes Hides Her Feelings in Russian, Vol. 1</dc:title>
+    <dc:creator id="id">Sunsunsun</dc:creator>
+    <dc:creator id="id-1">Momoco</dc:creator>
+    <dc:source id="src-id">urn:isbn:9781975347840</dc:source>
+    <dc:rights>All rights reserved</dc:rights>
+    <dc:identifier id="uid">9781975347857</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <dc:publisher>Yen On</dc:publisher>
+    <meta property="title-type" refines="#title">main</meta>
+    <meta property="identifier-type" refines="#uid" scheme="onix:codelist5">15</meta>
+    <meta property="source-of" refines="#src-id">pagination</meta>
+    <meta property="identifier-type" refines="#src-id" scheme="onix:codelist5">15</meta>
+    <meta property="dcterms:modified">2022-11-21T06:22:39Z</meta>
+    <meta id="auth" property="dcterms:creator">Sunsunsun and Momoco</meta>
+    <meta property="dcterms:date">2022</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="rendition:spread">auto</meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilitySummary">A simple book which contains various accessibility features such as table of content, page-list, landmark, reading order, Structural Navigation, and semantic structure.</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilityFeature">ARIA</meta>
+    <meta property="schema:accessibilityFeature">displayTransformability</meta>
+    <meta property="schema:accessibilityFeature">printPageNumbers</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="role" refines="#id-2" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#id" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id">Sunsunsun</meta>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-1">Momoco</meta>
+    <meta content="1.9.2" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="html-cover-page" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert001" href="Text/insert001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert002" href="Text/insert002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert003" href="Text/insert003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert004" href="Text/insert004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert005" href="Text/insert005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tit" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prologue" href="Text/prologue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1" href="Text/chapter001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter001-01" href="Text/chapter001-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2" href="Text/chapter002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter002-01" href="Text/chapter002-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter002-02" href="Text/chapter002-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3" href="Text/chapter003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4" href="Text/chapter004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter004-01" href="Text/chapter004-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter004-02" href="Text/chapter004-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter004-03" href="Text/chapter004-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter004-04" href="Text/chapter004-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5" href="Text/chapter005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter005-01" href="Text/chapter005-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter005-02" href="Text/chapter005-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter6" href="Text/chapter006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter006-01" href="Text/chapter006-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter7" href="Text/chapter007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter8" href="Text/chapter008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter008-01" href="Text/chapter008-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter008-02" href="Text/chapter008-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter008-03" href="Text/chapter008-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter008-04" href="Text/chapter008-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epilogue" href="Text/epilogue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epilogue-01" href="Text/epilogue-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epilogue-02" href="Text/epilogue-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="afterword" href="Text/afterword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="backmatter" href="Text/backmatter.xhtml" media-type="application/xhtml+xml"/>
+    <item id="backad" href="Text/backad.xhtml" media-type="application/xhtml+xml"/>
+    <item id="newsletter" href="Text/newsletter.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="toc" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="styles/stylesheet.css" media-type="text/css"/>
+    <item id="cover-image" href="images/9781975347857.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="image-002" href="images/backad.jpg" media-type="image/jpeg"/>
+    <item id="image-005" href="images/ill_001.jpg" media-type="image/jpeg"/>
+    <item id="image-006" href="images/ill_002.jpg" media-type="image/jpeg"/>
+    <item id="image-007" href="images/ill_003.jpg" media-type="image/jpeg"/>
+    <item id="image-008" href="images/ill_004.jpg" media-type="image/jpeg"/>
+    <item id="image-009" href="images/ill_005.jpg" media-type="image/jpeg"/>
+    <item id="image-0010" href="images/ill_006.jpg" media-type="image/jpeg"/>
+    <item id="image-0011" href="images/ill_007.jpg" media-type="image/jpeg"/>
+    <item id="image-0012" href="images/ill_008.jpg" media-type="image/jpeg"/>
+    <item id="image-0013" href="images/ill_009.jpg" media-type="image/jpeg"/>
+    <item id="image-0014" href="images/ill_010.jpg" media-type="image/jpeg"/>
+    <item id="image-0015" href="images/orn.jpg" media-type="image/jpeg"/>
+    <item id="image-004" href="images/pgii.jpg" media-type="image/jpeg"/>
+    <item id="image-0016" href="images/Sunsunsun_AlyaRussian_v1_insert_pg1.jpg" media-type="image/jpeg"/>
+    <item id="image-0017" href="images/Sunsunsun_AlyaRussian_v1_insert_pg2-3.jpg" media-type="image/jpeg"/>
+    <item id="image-0018" href="images/Sunsunsun_AlyaRussian_v1_insert_pg4-5.jpg" media-type="image/jpeg"/>
+    <item id="image-0019" href="images/Sunsunsun_AlyaRussian_v1_insert_pg6-7.jpg" media-type="image/jpeg"/>
+    <item id="image-0020" href="images/Sunsunsun_AlyaRussian_v1_insert_pg8.jpg" media-type="image/jpeg"/>
+    <item id="image-0021" href="images/title.jpg" media-type="image/jpeg"/>
+    <item id="myfont-1" href="fonts/ArialUnicode.ttf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="html-cover-page"/>
+    <itemref idref="insert001"/>
+    <itemref idref="insert002"/>
+    <itemref idref="insert003"/>
+    <itemref idref="insert004"/>
+    <itemref idref="insert005"/>
+    <itemref idref="tit"/>
+    <itemref idref="copyright"/>
+    <itemref idref="contents"/>
+    <itemref idref="prologue"/>
+    <itemref idref="chapter1"/>
+    <itemref idref="chapter001-01"/>
+    <itemref idref="chapter2"/>
+    <itemref idref="chapter002-01"/>
+    <itemref idref="chapter002-02"/>
+    <itemref idref="chapter3"/>
+    <itemref idref="chapter4"/>
+    <itemref idref="chapter004-01"/>
+    <itemref idref="chapter004-02"/>
+    <itemref idref="chapter004-03"/>
+    <itemref idref="chapter004-04"/>
+    <itemref idref="chapter5"/>
+    <itemref idref="chapter005-01"/>
+    <itemref idref="chapter005-02"/>
+    <itemref idref="chapter6"/>
+    <itemref idref="chapter006-01"/>
+    <itemref idref="chapter7"/>
+    <itemref idref="chapter8"/>
+    <itemref idref="chapter008-01"/>
+    <itemref idref="chapter008-02"/>
+    <itemref idref="chapter008-03"/>
+    <itemref idref="chapter008-04"/>
+    <itemref idref="epilogue"/>
+    <itemref idref="epilogue-01"/>
+    <itemref idref="epilogue-02"/>
+    <itemref idref="afterword"/>
+    <itemref idref="backmatter"/>
+    <itemref idref="backad"/>
+    <itemref idref="newsletter"/>
+  </spine>
+  <guide>
+    <reference type="start" title="Begining" href="Text/cover.xhtml"/>
+    <reference type="cover" title="Cover Image" href="Text/cover.xhtml"/>
+    <reference type="toc" title="Contents" href="Text/contents.xhtml"/>
+  </guide>
+</package>
