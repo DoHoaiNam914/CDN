@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9781718328433" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Seirei Gensouki: Spirit Chronicles Volume 22</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint2">
+      <navLabel>
+        <text>Color Illustrations</text>
+      </navLabel>
+      <content src="Text/frontmatter1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint3">
+      <navLabel>
+        <text>Prologue: The Rules of God That Rio Knows</text>
+      </navLabel>
+      <content src="Text/prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint4">
+      <navLabel>
+        <text>Chapter 1: The Aerial Battle of Rodania</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint5">
+      <navLabel>
+        <text>Chapter 2: Reunion</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint6">
+      <navLabel>
+        <text>Chapter 3: Sisterly Bonds</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint7">
+      <navLabel>
+        <text>Interlude: The Heroes’ Resolution</text>
+      </navLabel>
+      <content src="Text/interlude.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint8">
+      <navLabel>
+        <text>Chapter 4: Celia’s Return</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint9">
+      <navLabel>
+        <text>Chapter 5: Secret Meeting</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint10">
+      <navLabel>
+        <text>Chapter 6: Hero Q&amp;A</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint11">
+      <navLabel>
+        <text>Interlude: Rodania after Invasion</text>
+      </navLabel>
+      <content src="Text/interlude1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint12">
+      <navLabel>
+        <text>Chapter 7: The Power of a Hero</text>
+      </navLabel>
+      <content src="Text/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint13">
+      <navLabel>
+        <text>Chapter 8: Celia’s Battle</text>
+      </navLabel>
+      <content src="Text/chapter8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint14">
+      <navLabel>
+        <text>Epilogue: A Prophetic Dream, or...</text>
+      </navLabel>
+      <content src="Text/epilogue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint15">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/afterword.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint16">
+      <navLabel>
+        <text>Bonus Short Stories</text>
+      </navLabel>
+      <content src="Text/bonus.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint17">
+      <navLabel>
+        <text>Bonus Illustration</text>
+      </navLabel>
+      <content src="Text/bonus1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint18">
+      <navLabel>
+        <text>About J-Novel Club</text>
+      </navLabel>
+      <content src="Text/signup.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint19">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
