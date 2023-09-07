@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9781718385085" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Full Clearing Another World under a Goddess with Zero Believers: Volume 6</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint2">
+      <navLabel>
+        <text>Prologue: Makoto Takatsuki’s Breakfast</text>
+      </navLabel>
+      <content src="Text/prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint3">
+      <navLabel>
+        <text>Chapter 1: Makoto Takatsuki Prepares to Travel</text>
+      </navLabel>
+      <content src="Text/chapter1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint4">
+      <navLabel>
+        <text>Chapter 2: Makoto Takatsuki Aims for Springrogue</text>
+      </navLabel>
+      <content src="Text/chapter2.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint5">
+      <navLabel>
+        <text>Chapter 3: Makoto Takatsuki Arrives in the Elven Village</text>
+      </navLabel>
+      <content src="Text/chapter3.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint6">
+      <navLabel>
+        <text>Chapter 4: Makoto Takatsuki Scouts the Forest of Fiends</text>
+      </navLabel>
+      <content src="Text/chapter4.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint7">
+      <navLabel>
+        <text>Chapter 5: Makoto Takatsuki Speaks with the Crimson Witch</text>
+      </navLabel>
+      <content src="Text/chapter5.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint8">
+      <navLabel>
+        <text>Chapter 6: Makoto Takatsuki Prepares for Battle</text>
+      </navLabel>
+      <content src="Text/chapter6.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint9">
+      <navLabel>
+        <text>Chapter 7: Makoto Takatsuki Faces a Demon Lord</text>
+      </navLabel>
+      <content src="Text/chapter7.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint10">
+      <navLabel>
+        <text>Chapter 8: Makoto Takatsuki Awakens</text>
+      </navLabel>
+      <content src="Text/chapter8.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint11">
+      <navLabel>
+        <text>Epilogue: Traveling with a Witch</text>
+      </navLabel>
+      <content src="Text/epilogue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint12">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/afterword.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint13">
+      <navLabel>
+        <text>Color Illustrations</text>
+      </navLabel>
+      <content src="Text/backmatter1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint14">
+      <navLabel>
+        <text>About J-Novel Club</text>
+      </navLabel>
+      <content src="Text/signup.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint15">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

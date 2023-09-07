@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package version="3.0" unique-identifier="pub-id" xml:lang="en" xmlns="http://www.idpf.org/2007/opf">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id" xml:lang="en">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Full Clearing Another World under a Goddess with Zero Believers: Volume 1</dc:title>
     <dc:creator id="creator01">Isle Osaki</dc:creator>
-    <meta property="file-as" refines="#creator01">OSAKI, ISLE</meta>
-    <meta property="role" refines="#creator01" scheme="marc:relators">aut</meta>
-    <meta property="display-seq" refines="#creator01">1</meta>
+    <meta refines="#creator01" property="file-as">OSAKI, ISLE</meta>
+    <meta refines="#creator01" scheme="marc:relators" property="role">aut</meta>
+    <meta refines="#creator01" property="display-seq">1</meta>
     <dc:creator id="creator02">Tam-U</dc:creator>
-    <meta property="file-as" refines="#creator02">TAM-U</meta>
-    <meta property="role" refines="#creator02" scheme="marc:relators">ill</meta>
-    <meta property="display-seq" refines="#creator02">2</meta>
+    <meta refines="#creator02" property="file-as">TAM-U</meta>
+    <meta refines="#creator02" scheme="marc:relators" property="role">ill</meta>
+    <meta refines="#creator02" property="display-seq">2</meta>
     <dc:creator id="creator03">airco</dc:creator>
-    <meta property="file-as" refines="#creator03">AIRCO</meta>
-    <meta property="role" refines="#creator03" scheme="marc:relators">trl</meta>
-    <meta property="display-seq" refines="#creator03">3</meta>
+    <meta refines="#creator03" property="file-as">AIRCO</meta>
+    <meta refines="#creator03" scheme="marc:relators" property="role">trl</meta>
+    <meta refines="#creator03" property="display-seq">3</meta>
     <dc:creator id="creator04">C.D. Leeson</dc:creator>
-    <meta property="file-as" refines="#creator04">LEESON, C.D.</meta>
-    <meta property="role" refines="#creator04" scheme="marc:relators">edt</meta>
-    <meta property="display-seq" refines="#creator04">4</meta>
+    <meta refines="#creator04" property="file-as">LEESON, C.D.</meta>
+    <meta refines="#creator04" scheme="marc:relators" property="role">edt</meta>
+    <meta refines="#creator04" property="display-seq">4</meta>
     <dc:language>en</dc:language>
     <dc:publisher>J-Novel Club</dc:publisher>
     <dc:rights>Copyright © 2019 Isle Osaki</dc:rights>
     <dc:date>2021-12-03</dc:date>
     <dc:identifier id="pub-id">9781718384996</dc:identifier>
-    <meta property="identifier-type" refines="#pub-id" scheme="onix:codelist5">15</meta>
-    <meta property="dcterms:modified">2022-08-07T22:34:22Z</meta>
-    <meta content="1.9.2" name="Sigil version"/>
+    <meta refines="#pub-id" scheme="onix:codelist5" property="identifier-type">15</meta>
+    <meta property="dcterms:modified">2021-12-06T02:29:50Z</meta>
+    <meta name="Sigil version" content="0.9.14"/>
     <meta name="cover" content="Cover.jpg"/>
   </metadata>
   <manifest>
@@ -46,20 +46,7 @@
     <item id="signup.xhtml" href="Text/signup.xhtml" media-type="application/xhtml+xml"/>
     <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
     <item id="bonus.xhtml" href="Text/bonus.xhtml" media-type="application/xhtml+xml"/>
-    <item id="jnovelclubCMYK.png" href="Images/jnovelclubCMYK.png" media-type="image/png"/>
     <item id="afterword.xhtml" href="Text/afterword.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Color1.jpg" href="Images/Color1.jpg" media-type="image/jpeg"/>
-    <item id="Color2.jpg" href="Images/Color2.jpg" media-type="image/jpeg"/>
-    <item id="Color3.jpg" href="Images/Color3.jpg" media-type="image/jpeg"/>
-    <item id="Cover.jpg" href="Images/Cover.jpg" media-type="image/jpeg" properties="cover-image"/>
-    <item id="Insert1.jpg" href="Images/Insert1.jpg" media-type="image/jpeg"/>
-    <item id="Insert2.jpg" href="Images/Insert2.jpg" media-type="image/jpeg"/>
-    <item id="Insert3.jpg" href="Images/Insert3.jpg" media-type="image/jpeg"/>
-    <item id="Insert4.jpg" href="Images/Insert4.jpg" media-type="image/jpeg"/>
-    <item id="Insert5.jpg" href="Images/Insert5.jpg" media-type="image/jpeg"/>
-    <item id="Insert6.jpg" href="Images/Insert6.jpg" media-type="image/jpeg"/>
-    <item id="Insert7.jpg" href="Images/Insert7.jpg" media-type="image/jpeg"/>
-    <item id="TOC.jpg" href="Images/TOC.jpg" media-type="image/jpeg"/>
     <item id="toc_img.xhtml" href="Text/toc_img.xhtml" media-type="application/xhtml+xml"/>
     <item id="prologue.xhtml" href="Text/prologue.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter1.xhtml" href="Text/chapter1.xhtml" media-type="application/xhtml+xml"/>
@@ -76,6 +63,19 @@
     <item id="chapter4.xhtml" href="Text/chapter4.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter6.xhtml" href="Text/chapter6.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter7.xhtml" href="Text/chapter7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Color1.jpg" href="Images/Color1.jpg" media-type="image/jpeg"/>
+    <item id="Color2.jpg" href="Images/Color2.jpg" media-type="image/jpeg"/>
+    <item id="Color3.jpg" href="Images/Color3.jpg" media-type="image/jpeg"/>
+    <item id="Cover.jpg" href="Images/Cover.jpg" media-type="image/jpeg"/>
+    <item id="Insert1.jpg" href="Images/Insert1.jpg" media-type="image/jpeg"/>
+    <item id="Insert2.jpg" href="Images/Insert2.jpg" media-type="image/jpeg"/>
+    <item id="Insert3.jpg" href="Images/Insert3.jpg" media-type="image/jpeg"/>
+    <item id="Insert4.jpg" href="Images/Insert4.jpg" media-type="image/jpeg"/>
+    <item id="Insert5.jpg" href="Images/Insert5.jpg" media-type="image/jpeg"/>
+    <item id="Insert6.jpg" href="Images/Insert6.jpg" media-type="image/jpeg"/>
+    <item id="Insert7.jpg" href="Images/Insert7.jpg" media-type="image/jpeg"/>
+    <item id="jnovelclubCMYK.png" href="Images/jnovelclubCMYK.png" media-type="image/png"/>
+    <item id="TOC.jpg" href="Images/TOC.jpg" media-type="image/jpeg"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
     <itemref idref="cover"/>
