@@ -3,16 +3,15 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>That Time I Got Reincarnated as a Slime, Vol. 5</dc:title>
     <dc:creator id="creator01">Fuse and Mitz Vah</dc:creator>
-    <meta property="role" refines="#creator01" scheme="marc:relators">aut</meta>
-    <meta property="file-as" refines="#creator01">Fuse and Mitz Vah</meta>
-    <meta property="display-seq" refines="#creator01">1</meta>
+    <meta refines="#creator01" property="file-as">Fuse and Mitz Vah</meta>
+    <meta refines="#creator01" property="role">aut</meta>
     <dc:publisher>Yen On</dc:publisher>
     <dc:date>2019-04-23</dc:date>
-    <meta property="dcterms:modified">2020-11-03T12:00:00Z</meta>
     <dc:rights>English translation © 2019 by Yen Press, LLC</dc:rights>
+    <meta property="dcterms:modified">2023-08-17T00:00:00Z</meta>
     <dc:language>en</dc:language>
     <meta name="cover" content="cover-image" />
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">urn:uuid:3ab2792b-77b9-4ce9-b248-46d99e135800</dc:identifier>
+    <dc:identifier id="pub-id">9781975301170</dc:identifier>
   </metadata>
   <manifest>
     <item id="chapter001_a" href="Text/chapter001_a.xhtml" media-type="application/xhtml+xml"/>
@@ -163,7 +162,6 @@
     <itemref idref="chapter007_h" linear="yes"/>
     <itemref idref="afterword" linear="yes"/>
     <itemref idref="newsletterSignup" linear="yes"/>
-    <itemref idref="nav"/>
   </spine>
   <guide>
     <reference type="copyright" title="Copyright" href="Text/copyright.xhtml"/>

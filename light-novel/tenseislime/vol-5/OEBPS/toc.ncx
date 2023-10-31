@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
   <head>
-    <meta content="9781975301170" name="dtb:isbn"/>
+    <meta content="9781975301170" name="dtb:uid"/>
     <meta content="1" name="dtb:depth"/>
     <meta content="0" name="dtb:totalPageCount"/>
     <meta content="0" name="dtb:maxPageNumber"/>

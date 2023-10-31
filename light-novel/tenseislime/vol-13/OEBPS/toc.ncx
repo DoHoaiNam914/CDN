@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:epub="http://www.idpf.org/2007/ops">
   <head>
-    <meta content="9781975314460" name="dtb:uid"/>
+    <meta content="9781975314484" name="dtb:uid"/>
     <meta content="1" name="dtb:depth"/>
     <meta content="0" name="dtb:totalPageCount"/>
     <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
-    <text>That Time I Got Reincarnated as a Slime, Vol. 13</text>
+    <text>That Time I Got Reincarnated as a Slime, Vol. 14</text>
   </docTitle>
   <docAuthor>
     <text>Fuse and Mitz Vah</text>
@@ -19,19 +19,19 @@
       </navLabel>
       <content src="Text/cover.xhtml"/>
     </navPoint>
-    <navPoint id="insert001" playOrder="2">
+    <navPoint id="titlepage" playOrder="2">
       <navLabel>
         <text>Insert</text>
       </navLabel>
       <content src="Text/insert001.xhtml"/>
     </navPoint>
-    <navPoint id="titlepage" playOrder="3">
+    <navPoint id="copyright" playOrder="3">
       <navLabel>
         <text>Title Page</text>
       </navLabel>
       <content src="Text/titlepage.xhtml"/>
     </navPoint>
-    <navPoint id="copyright" playOrder="4">
+    <navPoint id="chapter001" playOrder="4">
       <navLabel>
         <text>Copyright</text>
       </navLabel>
@@ -43,55 +43,61 @@
       </navLabel>
       <content src="Text/toc.xhtml"/>
     </navPoint>
-    <navPoint id="preface002" playOrder="6">
+    <navPoint id="chapter002" playOrder="6">
       <navLabel>
-        <text>Prologue: Two Misgivings</text>
-      </navLabel>
-      <content src="Text/preface001.xhtml"/>
-    </navPoint>
-    <navPoint id="chapter002" playOrder="7">
-      <navLabel>
-        <text>Chapter 1: Unrest and Resolve</text>
+        <text>Prologue: The Clowns’ Decision</text>
       </navLabel>
       <content src="Text/chapter001.xhtml"/>
     </navPoint>
-    <navPoint id="chapter006" playOrder="8">
+    <navPoint id="chapter003" playOrder="7">
       <navLabel>
-        <text>Chapter 2: The Assault Begins</text>
+        <text>Chapter 1: Rewards and Evolutions</text>
       </navLabel>
-      <content src="Text/chapter005.xhtml"/>
+      <content src="Text/chapter003.xhtml"/>
     </navPoint>
-    <navPoint id="chapter013" playOrder="9">
+    <navPoint id="chapter004" playOrder="8">
       <navLabel>
-        <text>Interlude: Gazel’s Melancholy</text>
+        <text>Interlude: The Outrageous Celebration</text>
       </navLabel>
-      <content src="Text/chapter013.xhtml"/>
+      <content src="Text/chapter011.xhtml"/>
     </navPoint>
-    <navPoint id="chapter015" playOrder="10">
+    <navPoint id="chapter005" playOrder="9">
       <navLabel>
-        <text>Chapter 3: Battle of the Labyrinth</text>
+        <text>Chapter 2: Future Directions</text>
       </navLabel>
       <content src="Text/chapter014.xhtml"/>
     </navPoint>
-    <navPoint id="chapter020" playOrder="11">
+    <navPoint id="chapter006" playOrder="10">
       <navLabel>
-        <text>Chapter 4: Total Victory</text>
+        <text>Interlude: The Game Among the Heavens</text>
       </navLabel>
-      <content src="Text/chapter019.xhtml"/>
+      <content src="Text/chapter020.xhtml"/>
     </navPoint>
-    <navPoint id="chapter035" playOrder="12">
+    <navPoint id="chapter007" playOrder="11">
       <navLabel>
-        <text>Epilogue: The Deeds of a Demon Lord</text>
+        <text>Chapter 3: Capital in Turmoil</text>
       </navLabel>
-      <content src="Text/chapter035.xhtml"/>
+      <content src="Text/chapter021.xhtml"/>
     </navPoint>
-    <navPoint id="afterword" playOrder="13">
+    <navPoint id="chapter008" playOrder="12">
+      <navLabel>
+        <text>Chapter 4: The Red Purge</text>
+      </navLabel>
+      <content src="Text/chapter029.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter009" playOrder="13">
+      <navLabel>
+        <text>Epilogue: Rage</text>
+      </navLabel>
+      <content src="Text/chapter033.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter010" playOrder="14">
       <navLabel>
         <text>Afterword</text>
       </navLabel>
       <content src="Text/appendix001.xhtml"/>
     </navPoint>
-    <navPoint id="newsletter1" playOrder="14">
+    <navPoint id="chapter011" playOrder="15">
       <navLabel>
         <text>Yen Newsletter</text>
       </navLabel>

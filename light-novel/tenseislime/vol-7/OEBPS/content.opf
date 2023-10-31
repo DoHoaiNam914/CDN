@@ -2,17 +2,16 @@
 <package version="3.0" unique-identifier="pub-id" xmlns="http://www.idpf.org/2007/opf" xml:lang="en">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>That Time I Got Reincarnated as a Slime, Vol. 7</dc:title>
+    <meta refines="#creator01" property="role">aut</meta>
+    <meta refines="#creator01" property="file-as">Fuse and Mitz Vah</meta>
     <dc:creator id="creator01">Fuse and Mitz Vah</dc:creator>
-    <meta property="role" refines="#creator01" scheme="marc:relators">aut</meta>
-    <meta property="file-as" refines="#creator01">Fuse and Mitz Vah</meta>
-    <meta property="display-seq" refines="#creator01">1</meta>
     <dc:publisher>Yen On</dc:publisher>
     <dc:date>2019-12-25</dc:date>
-    <meta property="dcterms:modified">2020-11-03T12:00:00Z</meta>
     <dc:rights>English translation © 2019 by Yen Press, LLC</dc:rights>
+    <meta property="dcterms:modified">2023-08-17T00:00:00Z</meta>
     <dc:language>en</dc:language>
     <meta name="cover" content="cover-image" />
-    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">urn:uuid:5131e6a2-09e8-4d6f-a104-1b7a440d27b7</dc:identifier>
+    <dc:identifier id="pub-id">9781975301217</dc:identifier>
   </metadata>
   <manifest>
     <item id="afterword" href="Text/afterword.xhtml" media-type="application/xhtml+xml"/>

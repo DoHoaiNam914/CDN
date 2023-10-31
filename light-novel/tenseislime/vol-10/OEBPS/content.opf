@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package version="3.0" unique-identifier="pub-id" xml:lang="en" xmlns:epub="http://www.idpf.org/2007/ops" xmlns="http://www.idpf.org/2007/opf" xmlns:svg="http://www.w3.org/2000/svg">
+<package version="3.0" unique-identifier="pub-id" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.idpf.org/2007/opf" xml:lang="en" xmlns:epub="http://www.idpf.org/2007/ops">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>That Time I Got Reincarnated as a Slime, Vol. 10</dc:title>
     <dc:creator id="creator1">Fuse and Mitz Vah</dc:creator>
@@ -9,10 +9,10 @@
     <dc:publisher>Yen On</dc:publisher>
     <dc:rights>English translation © 2021 by Yen Press, LLC</dc:rights>
     <dc:date>2021-01-20</dc:date>
-    <meta property="dcterms:modified">2021-01-19T12:00:00Z</meta>
+    <meta property="dcterms:modified">2023-08-17T00:00:00Z</meta>
     <dc:language>en</dc:language>
     <meta name="cover" content="cover-image" />
-    <dc:identifier id="pub-id">urn:uuid:3bbafa91-935d-4e80-b9d3-2f0130b6b573</dc:identifier>
+    <dc:identifier id="pub-id">9781975314408</dc:identifier>
   </metadata>
   <manifest>
     <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
@@ -46,6 +46,7 @@
     <item id="aArt_P349" href="Images/Art_P349.jpg" media-type="image/jpeg"/>
     <item id="aArt_P362" href="Images/Art_P362.jpg" media-type="image/jpeg"/>
     <item id="aArt_P363" href="Images/Art_P363.jpg" media-type="image/jpeg"/>
+    <item id="aArt_P364" href="Images/Art_P364.jpg" media-type="image/jpeg"/>
     <item id="chapter001" href="Text/chapter001.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter002" href="Text/chapter002.xhtml" media-type="application/xhtml+xml"/>
     <item id="chapter003" href="Text/chapter003.xhtml" media-type="application/xhtml+xml"/>
@@ -88,6 +89,7 @@
     <item id="appendix001" href="Text/appendix001.xhtml" media-type="application/xhtml+xml"/>
     <item id="appendix002" href="Text/appendix002.xhtml" media-type="application/xhtml+xml"/>
     <item id="appendix003" href="Text/appendix003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix004" href="Text/appendix004.xhtml" media-type="application/xhtml+xml"/>
     <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="aArt_insert001" href="Images/Art_insert001.jpg" media-type="image/jpeg"/>
     <item id="aArt_insert002" href="Images/Art_insert002.jpg" media-type="image/jpeg"/>
@@ -97,7 +99,7 @@
     <item id="insert003" href="Text/insert003.xhtml" media-type="application/xhtml+xml"/>
     <item id="newsletterSignup" href="Text/newsletterSignup.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
-  <spine page-progression-direction="ltr" toc="ncx">
+  <spine toc="ncx" page-progression-direction="ltr">
     <itemref idref="cover" linear="yes"/>
     <itemref idref="insert001" linear="yes"/>
     <itemref idref="insert002" linear="yes"/>
@@ -147,6 +149,7 @@
     <itemref idref="appendix001" linear="yes"/>
     <itemref idref="appendix002" linear="yes"/>
     <itemref idref="appendix003" linear="yes"/>
+    <itemref idref="appendix004" linear="yes"/>
     <itemref idref="newsletterSignup" linear="yes"/>
   </spine>
   <guide>

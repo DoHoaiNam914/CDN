@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package version="3.0" unique-identifier="pub-id" xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" xmlns:svg="http://www.w3.org/2000/svg">
+<package version="3.0" unique-identifier="pub-id" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.idpf.org/2007/opf" xml:lang="en" xmlns:epub="http://www.idpf.org/2007/ops">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>That Time I Got Reincarnated as a Slime, Vol. 9</dc:title>
     <dc:creator id="creator1">Fuse and Mitz Vah</dc:creator>
-    <meta property="role" refines="#creator1" scheme="marc:relators">aut</meta>
-    <meta property="file-as" refines="#creator1">Fuse and Mitz Vah</meta>
-    <meta property="display-seq" refines="#creator1">1</meta>
+    <meta refines="#creator1" scheme="marc:relators" property="role">aut</meta>
+    <meta refines="#creator1" property="file-as">Fuse and Mitz Vah</meta>
+    <meta refines="#creator1" property="display-seq">1</meta>
     <dc:publisher>Yen On</dc:publisher>
     <dc:rights>English translation © 2020 by Yen Press, LLC</dc:rights>
     <dc:date>2020-10-21</dc:date>
-    <meta property="dcterms:modified">2020-11-03T12:00:00Z</meta>
+    <meta property="dcterms:modified">2023-08-17T00:00:00Z</meta>
     <dc:language>en</dc:language>
     <meta name="cover" content="cover-image" />
-    <dc:identifier id="pub-id">urn:uuid:aaf839e3-d5fb-4743-a580-acfe1a43e3bb</dc:identifier>
+    <dc:identifier id="pub-id">9781975314385</dc:identifier>
   </metadata>
   <manifest>
     <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
@@ -98,7 +98,7 @@
     <item id="insert002" href="Text/insert002.xhtml" media-type="application/xhtml+xml"/>
     <item id="insert003" href="Text/insert003.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
-  <spine page-progression-direction="ltr" toc="ncx">
+  <spine toc="ncx" page-progression-direction="ltr">
     <itemref idref="cover" linear="yes"/>
     <itemref idref="insert001" linear="yes"/>
     <itemref idref="insert002" linear="yes"/>

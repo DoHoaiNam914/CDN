@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package version="3.0" unique-identifier="pub-id" xmlns:epub="http://www.idpf.org/2007/ops" xmlns="http://www.idpf.org/2007/opf" xml:lang="en" xmlns:svg="http://www.w3.org/2000/svg">
+<package version="3.0" unique-identifier="pub-id" xml:lang="en" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>The Eminence in Shadow, Vol. 4</dc:title>
     <dc:creator id="creator01">Daisuke Aizawa and Touzai</dc:creator>
-    <meta property="role" scheme="marc:relators" refines="#creator01">aut</meta>
-    <meta property="file-as" refines="#creator01">AIZAWA, DAISUKE and TOUZAI</meta>
-    <meta property="display-seq" refines="#creator01">1</meta>
+    <meta refines="#creator01" scheme="marc:relators" property="role">aut</meta>
+    <meta refines="#creator01" property="file-as">AIZAWA, DAISUKE and TOUZAI</meta>
+    <meta refines="#creator01" property="display-seq">1</meta>
     <dc:publisher>Yen On</dc:publisher>
     <dc:rights>Copyright © 2021 Daisuke Aizawa</dc:rights>
     <dc:date>2022-05-18</dc:date>
-    <meta property="dcterms:modified">2022-06-07T00:00:00Z</meta>
+    <meta property="dcterms:modified">2023-08-03T00:00:00Z</meta>
     <dc:language>en</dc:language>
     <meta name="cover" content="cover-image" />
-    <dc:identifier id="pub-id">urn:uuid:954aba28-5ed3-4107-b2fb-6c57434de0c2</dc:identifier>
-    <meta content="0.9.18" name="Sigil version" />
+    <dc:identifier id="pub-id">9781975341855</dc:identifier>
   </metadata>
   <manifest>
     <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
