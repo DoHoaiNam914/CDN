@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head><meta name="dtb:uid" content="9784867164884"/></head>
+    <docTitle><text>転生したらスライムだった件 21</text></docTitle>
+    <navMap>
+        <navPoint>
+            <navLabel><text>表紙</text></navLabel>
+            <content src="xhtml/p-cover.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>目次</text></navLabel>
+            <content src="xhtml/p-toc.xhtml"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>序章　決意の時</text></navLabel>
+            <content src="xhtml/p-001.xhtml#toc-001"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>第一章　滅びゆく都</text></navLabel>
+            <content src="xhtml/p-003.xhtml#toc-002"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>幕間　蟲の王</text></navLabel>
+            <content src="xhtml/p-005.xhtml#toc-003"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>第二章　迷宮侵蝕</text></navLabel>
+            <content src="xhtml/p-006.xhtml#toc-004"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>第三章　親と子</text></navLabel>
+            <content src="xhtml/p-008.xhtml#toc-005"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>第四章　妄執の彼方</text></navLabel>
+            <content src="xhtml/p-010.xhtml#toc-006"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>終章　終焉の先</text></navLabel>
+            <content src="xhtml/p-012.xhtml#toc-007"/>
+        </navPoint>
+        <navPoint>
+            <navLabel><text>奥付</text></navLabel>
+            <content src="xhtml/p-colophon.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
