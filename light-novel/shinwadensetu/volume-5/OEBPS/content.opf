@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="pub-id" xml:lang="en" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>The Mythical Hero's Otherworld Chronicles: Volume 5</dc:title>
+    <dc:creator id="creator01">Tatematsuri</dc:creator>
+    <meta property="file-as" refines="#creator01">TATEMATSURI</meta>
+    <meta scheme="marc:relators" property="role" refines="#creator01">aut</meta>
+    <meta property="display-seq" refines="#creator01">1</meta>
+    <dc:creator id="creator02">Ruria Miyuki</dc:creator>
+    <meta property="file-as" refines="#creator02">MIYUKI, RURIA</meta>
+    <meta scheme="marc:relators" property="role" refines="#creator02">ill</meta>
+    <meta property="display-seq" refines="#creator02">2</meta>
+    <dc:creator id="creator03">James Whittaker</dc:creator>
+    <meta property="file-as" refines="#creator03">WHITTAKER, JAMES</meta>
+    <meta scheme="marc:relators" property="role" refines="#creator03">trl</meta>
+    <meta property="display-seq" refines="#creator03">3</meta>
+    <dc:creator id="creator04">Tess Nanavati</dc:creator>
+    <meta property="file-as" refines="#creator04">NANAVATI, TESS</meta>
+    <meta scheme="marc:relators" property="role" refines="#creator04">edt</meta>
+    <meta property="display-seq" refines="#creator04">4</meta>
+    <dc:language>en</dc:language>
+    <dc:publisher>J-Novel Club</dc:publisher>
+    <dc:rights>Copyright © 2016 Tatematsuri</dc:rights>
+    <dc:date>2023-10-12</dc:date>
+    <dc:identifier id="pub-id">9781718303393</dc:identifier>
+    <meta scheme="onix:codelist5" property="identifier-type" refines="#pub-id">15</meta>
+    <meta property="dcterms:modified">2023-10-20T18:31:26Z</meta>
+    <meta name="Sigil version" content="0.9.14" />
+  </metadata>
+  <manifest>
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="style" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="Color1.xhtml" href="Text/Color1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Color2.xhtml" href="Text/Color2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="signup.xhtml" href="Text/signup.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert6.xhtml" href="Text/insert6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert1.xhtml" href="Text/insert1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert2.xhtml" href="Text/insert2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert3.xhtml" href="Text/insert3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert4.xhtml" href="Text/insert4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert5.xhtml" href="Text/insert5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="bonus.xhtml" href="Text/bonus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tocimg.xhtml" href="Text/tocimg.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Color3.xhtml" href="Text/Color3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="afterword.xhtml" href="Text/afterword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="prologue.xhtml" href="Text/prologue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1_1.xhtml" href="Text/chapter1_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2_2.xhtml" href="Text/chapter2_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3_1.xhtml" href="Text/chapter3_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4_1.xhtml" href="Text/chapter4_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5_2.xhtml" href="Text/chapter5_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epilogue.xhtml" href="Text/epilogue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter1.xhtml" href="Text/chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2.xhtml" href="Text/chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2_1.xhtml" href="Text/chapter2_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3.xhtml" href="Text/chapter3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4.xhtml" href="Text/chapter4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5.xhtml" href="Text/chapter5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5_1.xhtml" href="Text/chapter5_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="insert7.xhtml" href="Text/insert7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="jln.xhtml" href="Text/jln.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Color1.jpg" href="Images/Color1.jpg" media-type="image/jpeg"/>
+    <item id="Color2.jpg" href="Images/Color2.jpg" media-type="image/jpeg"/>
+    <item id="Color3.jpg" href="Images/Color3.jpg" media-type="image/jpeg"/>
+    <item id="Cover.jpg" href="Images/Cover.jpg" media-type="image/jpeg"/>
+    <item id="Insert1.jpg" href="Images/Insert1.jpg" media-type="image/jpeg"/>
+    <item id="Insert2.jpg" href="Images/Insert2.jpg" media-type="image/jpeg"/>
+    <item id="Insert3.jpg" href="Images/Insert3.jpg" media-type="image/jpeg"/>
+    <item id="Insert4.jpg" href="Images/Insert4.jpg" media-type="image/jpeg"/>
+    <item id="Insert5.jpg" href="Images/Insert5.jpg" media-type="image/jpeg"/>
+    <item id="Insert6.jpg" href="Images/Insert6.jpg" media-type="image/jpeg"/>
+    <item id="Insert7.jpg" href="Images/Insert7.jpg" media-type="image/jpeg"/>
+    <item id="jnovelclubCMYK.png" href="Images/jnovelclubCMYK.png" media-type="image/png"/>
+    <item id="TOC.jpg" href="Images/TOC.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="cover"/>
+    <itemref idref="tocimg.xhtml"/>
+    <itemref idref="jln.xhtml"/>
+    <itemref idref="prologue.xhtml"/>
+    <itemref idref="chapter1.xhtml"/>
+    <itemref idref="insert1.xhtml"/>
+    <itemref idref="chapter1_1.xhtml"/>
+    <itemref idref="chapter2.xhtml"/>
+    <itemref idref="insert2.xhtml"/>
+    <itemref idref="chapter2_1.xhtml"/>
+    <itemref idref="insert3.xhtml"/>
+    <itemref idref="chapter2_2.xhtml"/>
+    <itemref idref="chapter3.xhtml"/>
+    <itemref idref="insert4.xhtml"/>
+    <itemref idref="chapter3_1.xhtml"/>
+    <itemref idref="chapter4.xhtml"/>
+    <itemref idref="insert5.xhtml"/>
+    <itemref idref="chapter4_1.xhtml"/>
+    <itemref idref="chapter5.xhtml"/>
+    <itemref idref="insert6.xhtml"/>
+    <itemref idref="chapter5_1.xhtml"/>
+    <itemref idref="insert7.xhtml"/>
+    <itemref idref="chapter5_2.xhtml"/>
+    <itemref idref="epilogue.xhtml"/>
+    <itemref idref="afterword.xhtml"/>
+    <itemref idref="Color1.xhtml"/>
+    <itemref idref="Color2.xhtml"/>
+    <itemref idref="Color3.xhtml"/>
+    <itemref idref="bonus.xhtml"/>
+    <itemref idref="toc" linear="yes"/>
+    <itemref idref="signup.xhtml"/>
+    <itemref idref="copyright.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="other.backmatter" title="Back Matter" href="Text/Color1.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/toc.xhtml"/>
+  </guide>
+</package>
