@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <meta content="9781975363109" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Demon Sword Master of Excalibur Academy, Vol. 9</text>
+  </docTitle>
+  <docAuthor>
+    <text>Yu Shimizu and Asagi Tohsaka</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="insert" playOrder="2">
+      <navLabel>
+        <text>Insert</text>
+      </navLabel>
+      <content src="Text/insert001.xhtml"/>
+    </navPoint>
+    <navPoint id="titlepage" playOrder="3">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="copyright" playOrder="4">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="toc" playOrder="5">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/toc.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter002" playOrder="6">
+      <navLabel>
+        <text>Chapter 1 The Everdark Queen</text>
+      </navLabel>
+      <content src="Text/chapter002.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter007" playOrder="7">
+      <navLabel>
+        <text>Chapter 2 Nether Void</text>
+      </navLabel>
+      <content src="Text/chapter007.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter008" playOrder="8">
+      <navLabel>
+        <text>Chapter 3 The Shadows’ Scheme</text>
+      </navLabel>
+      <content src="Text/chapter008.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter009" playOrder="9">
+      <navLabel>
+        <text>Chapter 4 Audience with the Dark Lord</text>
+      </navLabel>
+      <content src="Text/chapter009.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter010" playOrder="10">
+      <navLabel>
+        <text>Chapter 5 The Secret of the Holy Swords</text>
+      </navLabel>
+      <content src="Text/chapter010.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter013" playOrder="11">
+      <navLabel>
+        <text>Chapter 6 Invitation</text>
+      </navLabel>
+      <content src="Text/chapter013.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter018" playOrder="12">
+      <navLabel>
+        <text>Chapter 7 Elysion Academy</text>
+      </navLabel>
+      <content src="Text/chapter018.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter021" playOrder="13">
+      <navLabel>
+        <text>Chapter 8 Sisters</text>
+      </navLabel>
+      <content src="Text/chapter021.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter024" playOrder="14">
+      <navLabel>
+        <text>Chapter 9 The Castle of Shadows</text>
+      </navLabel>
+      <content src="Text/chapter024.xhtml"/>
+    </navPoint>
+    <navPoint id="appendix001" playOrder="15">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/appendix001.xhtml"/>
+    </navPoint>
+    <navPoint id="ncx-12" playOrder="16">
+      <navLabel>
+        <text>Yen Newsletter</text>
+      </navLabel>
+      <content src="Text/newsletterSignup.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
