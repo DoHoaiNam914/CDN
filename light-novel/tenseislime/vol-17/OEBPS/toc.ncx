@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:epub="http://www.idpf.org/2007/ops" version="2005-1" xml:lang="en">
+<head>
+<meta name="dtb:uid" content="9781975375546"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>That Time I Got Reincarnated as a Slime, Vol. 17</text></docTitle>
+<docAuthor><text>Fuse and Mitz Vah</text></docAuthor>
+<navMap>
+<navPoint playOrder="1" id="cover"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+<navPoint playOrder="2" id="insert"><navLabel><text>Insert</text></navLabel><content src="insert001.xhtml"/></navPoint>
+<navPoint playOrder="3" id="titlepage"><navLabel><text>Title Page</text></navLabel><content src="titlepage.xhtml"/></navPoint>
+<navPoint playOrder="4" id="copyright"><navLabel><text>Copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
+<navPoint playOrder="5" id="toc"><navLabel><text>Table of Contents</text></navLabel><content src="toc.xhtml"/></navPoint>
+<navPoint playOrder="6" id="chapter001"><navLabel><text>Chapter 1: Mjöllmile’s Ambitions</text></navLabel><content src="chapter001.xhtml"/></navPoint>
+<navPoint playOrder="7" id="chapter007"><navLabel><text>Chapter 2: Faraway Memories</text></navLabel><content src="chapter007.xhtml"/></navPoint>
+<navPoint playOrder="8" id="chapter019"><navLabel><text>Chapter 3: Days of Upheaval</text></navLabel><content src="chapter019.xhtml"/></navPoint>
+<navPoint playOrder="9" id="chapter025"><navLabel><text>Chapter 4: Mumblings of a Blue Demon</text></navLabel><content src="chapter025.xhtml"/></navPoint>
+<navPoint playOrder="10" id="chapter029"><navLabel><text>Special Bonus: Vester Needs Your Advice (Originally written for a Slime merchandise campaign run by Animate, an anime retail chain in Japan)</text></navLabel><content src="chapter029.xhtml"/></navPoint>
+<navPoint playOrder="11" id="newsletter"><navLabel><text>Yen Newsletter</text></navLabel><content src="newsletterSignup.xhtml"/></navPoint>
+</navMap>
+
+</ncx>
